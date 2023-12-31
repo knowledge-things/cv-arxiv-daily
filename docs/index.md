@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.30
+## Updated on 2023.12.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2365,7 +2365,7 @@ layout: default
 |**2023-12-28**|**DeLR: Active Learning for Detection with Decoupled Localization and Recognition Query**|Yuhang Zhang et.al.|[2312.16931](http://arxiv.org/abs/2312.16931)|null|
 |**2023-12-28**|**DOEPatch: Dynamically Optimized Ensemble Model for Adversarial Patches Generation**|Wenyi Tan et.al.|[2312.16907](http://arxiv.org/abs/2312.16907)|null|
 |**2023-12-27**|**GRSDet: Learning to Generate Local Reverse Samples for Few-shot Object Detection**|Hefei Mei et.al.|[2312.16571](http://arxiv.org/abs/2312.16571)|null|
-|**2023-12-27**|**ConstScene: Dataset and Model for Advancing Robust Semantic Segmentation in Construction Environments**|Maghsood Salimi et.al.|[2312.16516](http://arxiv.org/abs/2312.16516)|null|
+|**2023-12-27**|**ConstScene: Dataset and Model for Advancing Robust Semantic Segmentation in Construction Environments**|Maghsood Salimi et.al.|[2312.16516](http://arxiv.org/abs/2312.16516)|**[link](https://github.com/robustinsight/constscene)**|
 |**2023-12-26**|**VirtualPainting: Addressing Sparsity with Virtual Points and Distance-Aware Data Augmentation for 3D Object Detection**|Sudip Dhakal et.al.|[2312.16141](http://arxiv.org/abs/2312.16141)|null|
 |**2023-12-25**|**DI-V2X: Learning Domain-Invariant Representation for Vehicle-Infrastructure Collaborative 3D Object Detection**|Li Xiang et.al.|[2312.15742](http://arxiv.org/abs/2312.15742)|null|
 |**2023-12-25**|**BiSwift: Bandwidth Orchestrator for Multi-Stream Video Analytics on Edge**|Lin Sun et.al.|[2312.15740](http://arxiv.org/abs/2312.15740)|null|
