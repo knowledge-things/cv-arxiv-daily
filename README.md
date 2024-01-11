@@ -465,7 +465,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-01-07**|**A Classification of Critical Configurations for any Number of Projective Views**|Martin Bråtelund et.al.|[2401.03450](http://arxiv.org/abs/2401.03450)|null|
+|**2024-01-10**|**Structure from Duplicates: Neural Inverse Graphics from a Pile of Objects**|Tianhang Cheng et.al.|[2401.05236](http://arxiv.org/abs/2401.05236)|**[link](https://github.com/tianhang-cheng/sfd)**|
+|**2024-01-07**|**A Classification of Critical Configurations for any Number of Projective Views**|Martin Bråtelund et.al.|[2401.03450](http://arxiv.org/abs/2401.03450)|**[link](https://github.com/mabraate/critical-configurations)**|
 |**2023-12-24**|**Residual Learning for Image Point Descriptors**|Rashik Shrestha et.al.|[2312.15471](http://arxiv.org/abs/2312.15471)|null|
 |**2023-12-16**|**Transformers in Unsupervised Structure-from-Motion**|Hemang Chawla et.al.|[2312.10529](http://arxiv.org/abs/2312.10529)|**[link](https://github.com/neurai-lab/mt-sfmlearner)**|
 |**2023-12-14**|**HeadRecon: High-Fidelity 3D Head Reconstruction from Monocular Video**|Xueying Wang et.al.|[2312.08863](http://arxiv.org/abs/2312.08863)|null|
@@ -621,6 +622,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-10**|**Modality-Aware Representation Learning for Zero-shot Sketch-based Image Retrieval**|Eunyi Lyou et.al.|[2401.04860](http://arxiv.org/abs/2401.04860)|null|
 |**2024-01-05**|**Benchmarking PathCLIP for Pathology Image Analysis**|Sunyi Zheng et.al.|[2401.02651](http://arxiv.org/abs/2401.02651)|null|
 |**2024-01-03**|**DDN-SLAM: Real-time Dense Dynamic Neural Implicit SLAM with Joint Semantic Encoding**|Mingrui Li et.al.|[2401.01545](http://arxiv.org/abs/2401.01545)|null|
 |**2024-01-02**|**BEV-CLIP: Multi-modal BEV Retrieval Methodology for Complex Scene in Autonomous Driving**|Dafeng Wei et.al.|[2401.01065](http://arxiv.org/abs/2401.01065)|null|
@@ -1657,6 +1659,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-10**|**InseRF: Text-Driven Generative Object Insertion in Neural 3D Scenes**|Mohamad Shahbazi et.al.|[2401.05335](http://arxiv.org/abs/2401.05335)|null|
+|**2024-01-10**|**CTNeRF: Cross-Time Transformer for Dynamic Neural Radiance Field from Monocular Video**|Xingyu Miao et.al.|[2401.04861](http://arxiv.org/abs/2401.04861)|null|
 |**2024-01-08**|**A Survey on 3D Gaussian Splatting**|Guikun Chen et.al.|[2401.03890](http://arxiv.org/abs/2401.03890)|null|
 |**2024-01-08**|**NeRFmentation: NeRF-based Augmentation for Monocular Depth Estimation**|Casimir Feldmann et.al.|[2401.03771](http://arxiv.org/abs/2401.03771)|null|
 |**2024-01-06**|**RustNeRF: Robust Neural Radiance Field with Low-Quality Images**|Mengfei Li et.al.|[2401.03257](http://arxiv.org/abs/2401.03257)|null|
@@ -2410,11 +2414,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-10**|**CLIP-guided Source-free Object Detection in Aerial Images**|Nanqing Liu et.al.|[2401.05168](http://arxiv.org/abs/2401.05168)|null|
+|**2024-01-10**|**Dual-Perspective Knowledge Enrichment for Semi-Supervised 3D Object Detection**|Yucheng Han et.al.|[2401.05011](http://arxiv.org/abs/2401.05011)|null|
+|**2024-01-10**|**Optimising Graph Representation for Hardware Implementation of Graph Convolutional Networks for Event-based Vision**|Kamil Jeziorek et.al.|[2401.04988](http://arxiv.org/abs/2401.04988)|null|
 |**2024-01-09**|**Generic Knowledge Boosted Pre-training For Remote Sensing Images**|Ziyue Huang et.al.|[2401.04614](http://arxiv.org/abs/2401.04614)|**[link](https://github.com/floatingstarZ/GeRSP)**|
 |**2024-01-08**|**SOAP: Cross-sensor Domain Adaptation for 3D Object Detection Using Stationary Object Aggregation Pseudo-labelling**|Chengjie Huang et.al.|[2401.04230](http://arxiv.org/abs/2401.04230)|null|
 |**2024-01-08**|**Dr $^2$ Net: Dynamic Reversible Dual-Residual Networks for Memory-Efficient Finetuning**|Chen Zhao et.al.|[2401.04105](http://arxiv.org/abs/2401.04105)|null|
 |**2024-01-08**|**Resident space object detection method based on the connection between Fourier spectrum of the video data difference frame and the linear velocity projection**|V. S. Baranova et.al.|[2401.04021](http://arxiv.org/abs/2401.04021)|null|
-|**2024-01-08**|**MS-DETR: Efficient DETR Training with Mixed Supervision**|Chuyang Zhao et.al.|[2401.03989](http://arxiv.org/abs/2401.03989)|null|
+|**2024-01-08**|**MS-DETR: Efficient DETR Training with Mixed Supervision**|Chuyang Zhao et.al.|[2401.03989](http://arxiv.org/abs/2401.03989)|**[link](https://github.com/atten4vis/ms-detr)**|
 |**2024-01-08**|**RoboFusion: Towards Robust Multi-Modal 3D obiect Detection via SAM**|Ziying Song et.al.|[2401.03907](http://arxiv.org/abs/2401.03907)|null|
 |**2024-01-08**|**UFO: Unidentified Foreground Object Detection in 3D Point Cloud**|Hyunjun Choi et.al.|[2401.03846](http://arxiv.org/abs/2401.03846)|null|
 |**2024-01-09**|**WidthFormer: Toward Efficient Transformer-based BEV View Transformation**|Chenhongyi Yang et.al.|[2401.03836](http://arxiv.org/abs/2401.03836)|null|
