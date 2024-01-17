@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.16
+## Updated on 2024.01.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2407,7 +2407,7 @@ layout: default
 |**2024-01-12**|**Dense Optical Flow Estimation Using Sparse Regularizers from Reduced Measurements**|Muhammad Wasim Nawaz et.al.|[2401.06396](http://arxiv.org/abs/2401.06396)|null|
 |**2024-01-11**|**YOLO-Former: YOLO Shakes Hand With ViT**|Javad Khoramdel et.al.|[2401.06244](http://arxiv.org/abs/2401.06244)|null|
 |**2024-01-12**|**Wasserstein Distance-based Expansion of Low-Density Latent Regions for Unknown Class Detection**|Prakash Mallick et.al.|[2401.05594](http://arxiv.org/abs/2401.05594)|**[link](https://github.com/proxymallick/OpenDet_CWA)**|
-|**2024-01-10**|**Consensus Focus for Object Detection and minority classes**|Erik Isai Valle Salgado et.al.|[2401.05530](http://arxiv.org/abs/2401.05530)|null|
+|**2024-01-10**|**Consensus Focus for Object Detection and minority classes**|Erik Isai Valle Salgado et.al.|[2401.05530](http://arxiv.org/abs/2401.05530)|**[link](https://github.com/erikvalle/consensus-focus-for-object-detection)**|
 |**2024-01-10**|**CLIP-guided Source-free Object Detection in Aerial Images**|Nanqing Liu et.al.|[2401.05168](http://arxiv.org/abs/2401.05168)|null|
 |**2024-01-10**|**Dual-Perspective Knowledge Enrichment for Semi-Supervised 3D Object Detection**|Yucheng Han et.al.|[2401.05011](http://arxiv.org/abs/2401.05011)|**[link](https://github.com/tingxueronghua/dpke)**|
 |**2024-01-10**|**Optimising Graph Representation for Hardware Implementation of Graph Convolutional Networks for Event-based Vision**|Kamil Jeziorek et.al.|[2401.04988](http://arxiv.org/abs/2401.04988)|null|
