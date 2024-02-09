@@ -23,6 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-07**|**Online and Certifiably Correct Visual Odometry and Mapping**|Devansh R Agrawal et.al.|[2402.05254](http://arxiv.org/abs/2402.05254)|null|
 |**2024-02-06**|**YOLOPoint Joint Keypoint and Object Detection**|Anton Backhaus et.al.|[2402.03989](http://arxiv.org/abs/2402.03989)|null|
 |**2024-01-19**|**Motion Consistency Loss for Monocular Visual Odometry with Attention-Based Deep Learning**|André O. Françani et.al.|[2401.10857](http://arxiv.org/abs/2401.10857)|null|
 |**2024-01-17**|**Event-Based Visual Odometry on Non-Holonomic Ground Vehicles**|Wanting Xu et.al.|[2401.09331](http://arxiv.org/abs/2401.09331)|**[link](https://github.com/gowanting/nhevo)**|
@@ -2494,6 +2495,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-08**|**InstaGen: Enhancing Object Detection by Training on Synthetic Dataset**|Chengjian Feng et.al.|[2402.05937](http://arxiv.org/abs/2402.05937)|null|
+|**2024-02-08**|**YOLO-CIANNA: Galaxy detection with deep learning in radio data. I. A new YOLO-inspired source detection method applied to the SKAO SDC1**|D. Cornu et.al.|[2402.05925](http://arxiv.org/abs/2402.05925)|null|
+|**2024-02-08**|**Using YOLO v7 to Detect Kidney in Magnetic Resonance Imaging: A Supervised Contrastive Learning**|Pouria Yazdian Anari et.al.|[2402.05817](http://arxiv.org/abs/2402.05817)|null|
+|**2024-02-08**|**Scrapping The Web For Early Wildfire Detection**|Mateo Lostanlen et.al.|[2402.05349](http://arxiv.org/abs/2402.05349)|null|
 |**2024-02-07**|**Toward Accurate Camera-based 3D Object Detection via Cascade Depth Estimation and Calibration**|Chaoqun Wang et.al.|[2402.04883](http://arxiv.org/abs/2402.04883)|null|
 |**2024-02-07**|**STAR: Shape-focused Texture Agnostic Representations for Improved Object Detection and 6D Pose Estimation**|Peter Hönig et.al.|[2402.04878](http://arxiv.org/abs/2402.04878)|null|
 |**2024-02-07**|**Streamlined Hybrid Annotation Framework using Scalable Codestream for Bandwidth-Restricted UAV Object Detection**|Karim El Khoury et.al.|[2402.04673](http://arxiv.org/abs/2402.04673)|null|
