@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.02.22
+## Updated on 2024.02.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -466,7 +466,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#updated-on-20240222>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240223>back to top</a>)</p>
 
 ## SFM
 
@@ -632,7 +632,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#updated-on-20240222>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240223>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -1296,7 +1296,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#updated-on-20240222>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240223>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -1508,7 +1508,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20240222>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240223>back to top</a>)</p>
 
 ## Image Matching
 
@@ -1713,7 +1713,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20240222>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240223>back to top</a>)</p>
 
 ## NeRF
 
@@ -2525,7 +2525,7 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20240222>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240223>back to top</a>)</p>
 
 ## Object Detection
 
@@ -2539,7 +2539,7 @@
 |**2024-02-20**|**CST: Calibration Side-Tuning for Parameter and Memory Efficient Transfer Learning**|Feng Chen et.al.|[2402.12736](http://arxiv.org/abs/2402.12736)|null|
 |**2024-02-20**|**YOLO-Ant: A Lightweight Detector via Depthwise Separable Convolutional and Large Kernel Design for Antenna Interference Source Detection**|Xiaoyu Tang et.al.|[2402.12641](http://arxiv.org/abs/2402.12641)|**[link](https://github.com/scnu-rislab/yolo-ant)**|
 |**2024-02-20**|**Efficient Parameter Mining and Freezing for Continual Object Detection**|Angelo G. Menezes et.al.|[2402.12624](http://arxiv.org/abs/2402.12624)|null|
-|**2024-02-19**|**LangXAI: Integrating Large Vision Models for Generating Textual Explanations to Enhance Explainability in Visual Perception Tasks**|Truong Thanh Hung Nguyen et.al.|[2402.12525](http://arxiv.org/abs/2402.12525)|null|
+|**2024-02-19**|**LangXAI: Integrating Large Vision Models for Generating Textual Explanations to Enhance Explainability in Visual Perception Tasks**|Truong Thanh Hung Nguyen et.al.|[2402.12525](http://arxiv.org/abs/2402.12525)|**[link](https://github.com/hungntt/LangXAI)**|
 |**2024-02-19**|**UncertaintyTrack: Exploiting Detection and Localization Uncertainty in Multi-Object Tracking**|Chang Won Lee et.al.|[2402.12303](http://arxiv.org/abs/2402.12303)|null|
 |**2024-02-19**|**Weakly Supervised Object Detection in Chest X-Rays with Differentiable ROI Proposal Networks and Soft ROI Pooling**|Philip Müller et.al.|[2402.11985](http://arxiv.org/abs/2402.11985)|**[link](https://github.com/philip-mueller/wsrpn)**|
 |**2024-02-19**|**SDGE: Stereo Guided Depth Estimation for 360° Camera Sets**|Jialei Xu et.al.|[2402.11791](http://arxiv.org/abs/2402.11791)|null|
@@ -2735,7 +2735,7 @@
 |**2023-12-25**|**BiSwift: Bandwidth Orchestrator for Multi-Stream Video Analytics on Edge**|Lin Sun et.al.|[2312.15740](http://arxiv.org/abs/2312.15740)|null|
 |**2023-12-25**|**Edge-on Low-surface-brightness Galaxy Candidates Detected from SDSS Images Using YOLO**|Yongguang Xing et.al.|[2312.15712](http://arxiv.org/abs/2312.15712)|null|
 
-<p align=right>(<a href=#updated-on-20240222>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240223>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
