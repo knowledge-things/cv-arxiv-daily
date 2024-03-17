@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.16
+## Updated on 2024.03.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1753,7 +1753,7 @@ layout: default
 |**2024-03-14**|**VIRUS-NeRF -- Vision, InfraRed and UltraSonic based Neural Radiance Fields**|Nicolaj Schmid et.al.|[2403.09477](http://arxiv.org/abs/2403.09477)|null|
 |**2024-03-14**|**3D-SceneDreamer: Text-Driven 3D-Consistent Scene Generation**|Frank Zhang et.al.|[2403.09439](http://arxiv.org/abs/2403.09439)|null|
 |**2024-03-14**|**RoDUS: Robust Decomposition of Static and Dynamic Elements in Urban Scenes**|Thang-Anh-Quan Nguyen et.al.|[2403.09419](http://arxiv.org/abs/2403.09419)|null|
-|**2024-03-14**|**PreSight: Enhancing Autonomous Vehicle Perception with City-Scale NeRF Priors**|Tianyuan Yuan et.al.|[2403.09079](http://arxiv.org/abs/2403.09079)|null|
+|**2024-03-14**|**PreSight: Enhancing Autonomous Vehicle Perception with City-Scale NeRF Priors**|Tianyuan Yuan et.al.|[2403.09079](http://arxiv.org/abs/2403.09079)|**[link](https://github.com/yuantianyuan01/presight)**|
 |**2024-03-13**|**Gaussian Splatting in Style**|Abhishek Saroha et.al.|[2403.08498](http://arxiv.org/abs/2403.08498)|null|
 |**2024-03-13**|**StyleDyRF: Zero-shot 4D Style Transfer for Dynamic Neural Radiance Fields**|Hongbin Xu et.al.|[2403.08310](http://arxiv.org/abs/2403.08310)|null|
 |**2024-03-13**|**NeRF-Supervised Feature Point Detection and Description**|Ali Youssef et.al.|[2403.08156](http://arxiv.org/abs/2403.08156)|null|
@@ -2608,7 +2608,7 @@ layout: default
 |**2024-03-14**|**Open-Vocabulary Object Detection with Meta Prompt Representation and Instance Contrastive Optimization**|Zhao Wang et.al.|[2403.09433](http://arxiv.org/abs/2403.09433)|null|
 |**2024-03-14**|**D3T: Distinctive Dual-Domain Teacher Zigzagging Across RGB-Thermal Gap for Domain-Adaptive Object Detection**|Dinh Phat Do et.al.|[2403.09359](http://arxiv.org/abs/2403.09359)|**[link](https://github.com/edwarddo69/d3t)**|
 |**2024-03-14**|**Griffon v2: Advancing Multimodal Perception with High-Resolution Scaling and Visual-Language Co-Referring**|Yufei Zhan et.al.|[2403.09333](http://arxiv.org/abs/2403.09333)|**[link](https://github.com/jefferyzhan/griffon)**|
-|**2024-03-14**|**EfficientMFD: Towards More Efficient Multimodal Synchronous Fusion Detection**|Jiaqing Zhang et.al.|[2403.09323](http://arxiv.org/abs/2403.09323)|null|
+|**2024-03-14**|**EfficientMFD: Towards More Efficient Multimodal Synchronous Fusion Detection**|Jiaqing Zhang et.al.|[2403.09323](http://arxiv.org/abs/2403.09323)|**[link](https://github.com/icey-zhang/efficientmfd)**|
 |**2024-03-14**|**Knowledge Distillation in YOLOX-ViT for Side-Scan Sonar Object Detection**|Martin Aubard et.al.|[2403.09313](http://arxiv.org/abs/2403.09313)|**[link](https://github.com/remaro-network/kd-yolox-vit)**|
 |**2024-03-14**|**MOTPose: Multi-object 6D Pose Estimation for Dynamic Video Sequences using Attention-based Temporal Fusion**|Arul Selvam Periyasamy et.al.|[2403.09309](http://arxiv.org/abs/2403.09309)|null|
 |**2024-03-14**|**CLIP-EBC: CLIP Can Count Accurately through Enhanced Blockwise Classification**|Yiming Ma et.al.|[2403.09281](http://arxiv.org/abs/2403.09281)|null|
