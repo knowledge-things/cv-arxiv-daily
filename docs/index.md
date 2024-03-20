@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.19
+## Updated on 2024.03.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2646,7 +2646,7 @@ layout: default
 |**2024-03-17**|**Advanced Knowledge Extraction of Physical Design Drawings, Translation and conversion to CAD formats using Deep Learning**|Jesher Joshua M et.al.|[2403.11291](http://arxiv.org/abs/2403.11291)|null|
 |**2024-03-17**|**ManipVQA: Injecting Robotic Affordance and Physically Grounded Information into Multi-Modal Large Language Models**|Siyuan Huang et.al.|[2403.11289](http://arxiv.org/abs/2403.11289)|null|
 |**2024-03-17**|**CPA-Enhancer: Chain-of-Thought Prompted Adaptive Enhancer for Object Detection under Unknown Degradations**|Yuwei Zhang et.al.|[2403.11220](http://arxiv.org/abs/2403.11220)|**[link](https://github.com/zyw-stu/CPA-Enhancer)**|
-|**2024-03-17**|**GRA: Detecting Oriented Objects through Group-wise Rotating and Attention**|Jiangshan Wang et.al.|[2403.11127](http://arxiv.org/abs/2403.11127)|null|
+|**2024-03-19**|**GRA: Detecting Oriented Objects through Group-wise Rotating and Attention**|Jiangshan Wang et.al.|[2403.11127](http://arxiv.org/abs/2403.11127)|null|
 |**2024-03-17**|**Self-supervised co-salient object detection via feature correspondence at multiple scales**|Souradeep Chakraborty et.al.|[2403.11107](http://arxiv.org/abs/2403.11107)|**[link](https://github.com/sourachakra/scosparc)**|
 |**2024-03-15**|**SimPB: A Single Model for 2D and 3D Object Detection from Multiple Cameras**|Yingqi Tang et.al.|[2403.10353](http://arxiv.org/abs/2403.10353)|null|
 |**2024-03-15**|**Generative Region-Language Pretraining for Open-Ended Object Detection**|Chuang Lin et.al.|[2403.10191](http://arxiv.org/abs/2403.10191)|**[link](https://github.com/foundationvision/generateu)**|
