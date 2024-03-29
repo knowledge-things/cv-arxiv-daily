@@ -656,6 +656,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-28**|**MagicLens: Self-Supervised Image Retrieval with Open-Ended Instructions**|Kai Zhang et.al.|[2403.19651](http://arxiv.org/abs/2403.19651)|null|
 |**2024-03-27**|**AIR-HLoc: Adaptive Image Retrieval for Efficient Visual Localisation**|Changkun Liu et.al.|[2403.18281](http://arxiv.org/abs/2403.18281)|null|
 |**2024-03-26**|**Learning to Visually Localize Sound Sources from Mixtures without Prior Source Knowledge**|Dongjin Kim et.al.|[2403.17420](http://arxiv.org/abs/2403.17420)|**[link](https://github.com/visualaikhu/noprior_multissl)**|
 |**2024-03-25**|**Enhancing Visual Place Recognition via Fast and Slow Adaptive Biasing in Event Cameras**|Gokul B. Nair et.al.|[2403.16425](http://arxiv.org/abs/2403.16425)|null|
@@ -1373,6 +1374,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-28**|**Instance-Adaptive and Geometric-Aware Keypoint Learning for Category-Level 6D Object Pose Estimation**|Xiao Lin et.al.|[2403.19527](http://arxiv.org/abs/2403.19527)|**[link](https://github.com/leeiieeo/ag-pose)**|
 |**2024-03-27**|**RoboKeyGen: Robot Pose and Joint Angles Estimation via Diffusion-based 3D Keypoint Generation**|Yang Tian et.al.|[2403.18259](http://arxiv.org/abs/2403.18259)|null|
 |**2024-03-18**|**FE-DeTr: Keypoint Detection and Tracking in Low-quality Image Frames with Events**|Xiangyuan Wang et.al.|[2403.11662](http://arxiv.org/abs/2403.11662)|**[link](https://github.com/yuyangpoi/fe-detr)**|
 |**2024-03-05**|**Self-supervised 3D Patient Modeling with Multi-modal Attentive Fusion**|Meng Zheng et.al.|[2403.03217](http://arxiv.org/abs/2403.03217)|null|
@@ -1806,6 +1808,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-28**|**SAID-NeRF: Segmentation-AIDed NeRF for Depth Completion of Transparent Objects**|Avinash Ummadisingu et.al.|[2403.19607](http://arxiv.org/abs/2403.19607)|null|
+|**2024-03-28**|**CoherentGS: Sparse Novel View Synthesis with Coherent 3D Gaussians**|Avinash Paliwal et.al.|[2403.19495](http://arxiv.org/abs/2403.19495)|null|
+|**2024-03-28**|**Mesh2NeRF: Direct Mesh Supervision for Neural Radiance Field Representation and Generation**|Yujin Chen et.al.|[2403.19319](http://arxiv.org/abs/2403.19319)|null|
+|**2024-03-28**|**Sine Activated Low-Rank Matrices for Parameter Efficient Learning**|Yiping Ji et.al.|[2403.19243](http://arxiv.org/abs/2403.19243)|null|
 |**2024-03-27**|**Gamba: Marry Gaussian Splatting with Mamba for single view 3D reconstruction**|Qiuhong Shen et.al.|[2403.18795](http://arxiv.org/abs/2403.18795)|null|
 |**2024-03-27**|**SAT-NGP : Unleashing Neural Graphics Primitives for Fast Relightable Transient-Free 3D reconstruction from Satellite Imagery**|Camille Billouard et.al.|[2403.18711](http://arxiv.org/abs/2403.18711)|null|
 |**2024-03-27**|**Modeling uncertainty for Gaussian Splatting**|Luca Savant et.al.|[2403.18476](http://arxiv.org/abs/2403.18476)|null|
@@ -2718,6 +2724,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-28**|**DenseNets Reloaded: Paradigm Shift Beyond ResNets and ViTs**|Donghyun Kim et.al.|[2403.19588](http://arxiv.org/abs/2403.19588)|null|
+|**2024-03-28**|**OV-Uni3DETR: Towards Unified Open-Vocabulary 3D Object Detection via Cycle-Modality Propagation**|Zhenyu Wang et.al.|[2403.19580](http://arxiv.org/abs/2403.19580)|null|
+|**2024-03-28**|**Sparse Generation: Making Pseudo Labels Sparse for weakly supervision with points**|Tian Ma et.al.|[2403.19306](http://arxiv.org/abs/2403.19306)|null|
+|**2024-03-28**|**CAT: Exploiting Inter-Class Dynamics for Domain Adaptive Object Detection**|Mikhail Kennerley et.al.|[2403.19278](http://arxiv.org/abs/2403.19278)|**[link](https://github.com/mecarill/cat)**|
+|**2024-03-28**|**Algorithmic Ways of Seeing: Using Object Detection to Facilitate Art Exploration**|Louie Søs Meyer et.al.|[2403.19174](http://arxiv.org/abs/2403.19174)|null|
+|**2024-03-28**|**CRKD: Enhanced Camera-Radar Object Detection with Cross-modality Knowledge Distillation**|Lingjun Zhao et.al.|[2403.19104](http://arxiv.org/abs/2403.19104)|null|
+|**2024-03-28**|**A Real-Time Framework for Domain-Adaptive Underwater Object Detection with Image Enhancement**|Junjie Wen et.al.|[2403.19079](http://arxiv.org/abs/2403.19079)|null|
+|**2024-03-27**|**Illicit object detection in X-ray images using Vision Transformers**|Jorgen Cani et.al.|[2403.19043](http://arxiv.org/abs/2403.19043)|null|
 |**2024-03-27**|**Benchmarking Object Detectors with COCO: A New Path Forward**|Shweta Singh et.al.|[2403.18819](http://arxiv.org/abs/2403.18819)|**[link](https://github.com/kdexd/coco-rem)**|
 |**2024-03-27**|**PhysicsAssistant: An LLM-Powered Interactive Learning Robot for Physics Lab Investigations**|Ehsan Latif et.al.|[2403.18721](http://arxiv.org/abs/2403.18721)|null|
 |**2024-03-27**|**CosalPure: Learning Concept from Group Images for Robust Co-Saliency Detection**|Jiayi Zhu et.al.|[2403.18554](http://arxiv.org/abs/2403.18554)|null|
