@@ -471,6 +471,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-11**|**Boosting Self-Supervision for Single-View Scene Completion via Knowledge Distillation**|Keonhee Han et.al.|[2404.07933](http://arxiv.org/abs/2404.07933)|null|
 |**2024-04-07**|**NeRF2Points: Large-Scale Point Cloud Generation From Street Views' Radiance Field Optimization**|Peng Tu et.al.|[2404.04875](http://arxiv.org/abs/2404.04875)|null|
 |**2024-04-04**|**GaSpCT: Gaussian Splatting for Novel CT Projection View Synthesis**|Emmanouil Nikolakakis et.al.|[2404.03126](http://arxiv.org/abs/2404.03126)|null|
 |**2024-03-29**|**InstantSplat: Unbounded Sparse-view Pose-free Gaussian Splatting in 40 Seconds**|Zhiwen Fan et.al.|[2403.20309](http://arxiv.org/abs/2403.20309)|null|
@@ -648,7 +649,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-04-11**|**Semantically-correlated memories in a dense associative model**|Thomas F Burns et.al.|[2404.07123](http://arxiv.org/abs/2404.07123)|null|
+|**2024-04-11**|**PRAM: Place Recognition Anywhere Model for Efficient Visual Localization**|Fei Xue et.al.|[2404.07785](http://arxiv.org/abs/2404.07785)|null|
+|**2024-04-11**|**2DLIW-SLAM:2D LiDAR-Inertial-Wheel Odometry with Real-Time Loop Closure**|Bin Zhang et.al.|[2404.07644](http://arxiv.org/abs/2404.07644)|null|
+|**2024-04-11**|**Semantically-correlated memories in a dense associative model**|Thomas F Burns et.al.|[2404.07123](http://arxiv.org/abs/2404.07123)|**[link](https://github.com/tfburns/cdam)**|
 |**2024-04-09**|**Training-Free Open-Vocabulary Segmentation with Offline Diffusion-Augmented Prototype Generation**|Luca Barsellotti et.al.|[2404.06542](http://arxiv.org/abs/2404.06542)|null|
 |**2024-04-09**|**Learning Embeddings with Centroid Triplet Loss for Object Identification in Robotic Grasping**|Anas Gouda et.al.|[2404.06277](http://arxiv.org/abs/2404.06277)|null|
 |**2024-04-07**|**Weakly Supervised Deep Hyperspherical Quantization for Image Retrieval**|Jinpeng Wang et.al.|[2404.04998](http://arxiv.org/abs/2404.04998)|**[link](https://github.com/gimpong/AAAI21-WSDHQ)**|
@@ -1815,6 +1818,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-11**|**Connecting NeRFs, Images, and Text**|Francesco Ballerini et.al.|[2404.07993](http://arxiv.org/abs/2404.07993)|null|
+|**2024-04-11**|**Boosting Self-Supervision for Single-View Scene Completion via Knowledge Distillation**|Keonhee Han et.al.|[2404.07933](http://arxiv.org/abs/2404.07933)|null|
+|**2024-04-11**|**NeuroNCAP: Photorealistic Closed-loop Safety Testing for Autonomous Driving**|William Ljungbergh et.al.|[2404.07762](http://arxiv.org/abs/2404.07762)|**[link](https://github.com/wljungbergh/neuroncap)**|
+|**2024-04-11**|**G-NeRF: Geometry-enhanced Novel View Synthesis from Single-View Images**|Zixiong Huang et.al.|[2404.07474](http://arxiv.org/abs/2404.07474)|null|
 |**2024-04-10**|**SplatPose & Detect: Pose-Agnostic 3D Anomaly Detection**|Mathis Kruse et.al.|[2404.06832](http://arxiv.org/abs/2404.06832)|**[link](https://github.com/m-kruse98/splatpose)**|
 |**2024-04-10**|**MonoSelfRecon: Purely Self-Supervised Explicit Generalizable 3D Reconstruction of Indoor Scenes from Monocular RGB Views**|Runfa Li et.al.|[2404.06753](http://arxiv.org/abs/2404.06753)|null|
 |**2024-04-10**|**Bayesian NeRF: Quantifying Uncertainty with Volume Density in Neural Radiance Fields**|Sibeak Lee et.al.|[2404.06727](http://arxiv.org/abs/2404.06727)|**[link](https://github.com/lab-of-ai-and-robotics/bayesian_nerf)**|
@@ -2773,6 +2780,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-11**|**ConsistencyDet: Robust Object Detector with Denoising Paradigm of Consistency Model**|Lifan Jiang et.al.|[2404.07773](http://arxiv.org/abs/2404.07773)|null|
+|**2024-04-11**|**Exploiting Object-based and Segmentation-based Semantic Features for Deep Learning-based Indoor Scene Classification**|Ricardo Pereira et.al.|[2404.07739](http://arxiv.org/abs/2404.07739)|null|
+|**2024-04-11**|**Run-time Monitoring of 3D Object Detection in Automated Driving Systems Using Early Layer Neural Activation Patterns**|Hakan Yekta Yatbaz et.al.|[2404.07685](http://arxiv.org/abs/2404.07685)|null|
+|**2024-04-11**|**Finding Dino: A plug-and-play framework for unsupervised detection of out-of-distribution objects using prototypes**|Poulami Sinhamahapatra et.al.|[2404.07664](http://arxiv.org/abs/2404.07664)|null|
+|**2024-04-11**|**Separated Attention: An Improved Cycle GAN Based Under Water Image Enhancement Method**|Tashmoy Ghosh et.al.|[2404.07649](http://arxiv.org/abs/2404.07649)|null|
+|**2024-04-11**|**GLID: Pre-training a Generalist Encoder-Decoder Vision Model**|Jihao Liu et.al.|[2404.07603](http://arxiv.org/abs/2404.07603)|null|
+|**2024-04-11**|**SFSORT: Scene Features-based Simple Online Real-Time Tracker**|M. M. Morsali et.al.|[2404.07553](http://arxiv.org/abs/2404.07553)|**[link](https://github.com/gitmehrdad/sfsort)**|
+|**2024-04-11**|**The Sydney Radio Star Catalogue: properties of radio stars at megahertz to gigahertz frequencies**|Laura N. Driessen et.al.|[2404.07418](http://arxiv.org/abs/2404.07418)|null|
+|**2024-04-11**|**Simplifying Two-Stage Detectors for On-Device Inference in Remote Sensing**|Jaemin Kang et.al.|[2404.07405](http://arxiv.org/abs/2404.07405)|null|
+|**2024-04-11**|**A fine-tuning workflow for automatic first-break picking with deep learning**|Amir Mardan et.al.|[2404.07400](http://arxiv.org/abs/2404.07400)|null|
 |**2024-04-10**|**Identification of Fine-grained Systematic Errors via Controlled Scene Generation**|Valentyn Boreiko et.al.|[2404.07045](http://arxiv.org/abs/2404.07045)|null|
 |**2024-04-10**|**Accurate Tennis Court Line Detection on Amateur Recorded Matches**|Sameer Agrawal et.al.|[2404.06977](http://arxiv.org/abs/2404.06977)|null|
 |**2024-04-10**|**Sparse Points to Dense Clouds: Enhancing 3D Detection with Limited LiDAR Data**|Aakash Kumar et.al.|[2404.06715](http://arxiv.org/abs/2404.06715)|null|
