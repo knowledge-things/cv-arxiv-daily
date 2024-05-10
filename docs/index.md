@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.09
+## Updated on 2024.05.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -479,7 +479,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-05-08**|**Power Variable Projection for Initialization-Free Large-Scale Bundle Adjustment**|Simon Weber et.al.|[2405.05079](http://arxiv.org/abs/2405.05079)|null|
+|**2024-05-09**|**Power Variable Projection for Initialization-Free Large-Scale Bundle Adjustment**|Simon Weber et.al.|[2405.05079](http://arxiv.org/abs/2405.05079)|null|
 |**2024-05-07**|**Novel View Synthesis with Neural Radiance Fields for Industrial Robot Applications**|Markus Hillemann et.al.|[2405.04345](http://arxiv.org/abs/2405.04345)|null|
 |**2024-05-07**|**Non-rigid Structure-from-Motion: Temporally-smooth Procrustean Alignment and Spatially-variant Deformation Modeling**|Jiawei Shi et.al.|[2405.04309](http://arxiv.org/abs/2405.04309)|null|
 |**2024-05-03**|**HoloGS: Instant Depth-based 3D Gaussian Splatting with Microsoft HoloLens 2**|Miriam Jäger et.al.|[2405.02005](http://arxiv.org/abs/2405.02005)|null|
@@ -2903,7 +2903,7 @@ layout: default
 |**2024-05-06**|**BadFusion: 2D-Oriented Backdoor Attacks against 3D Object Detection**|Saket S. Chaturvedi et.al.|[2405.03884](http://arxiv.org/abs/2405.03884)|null|
 |**2024-05-06**|**RepVGG-GELAN: Enhanced GELAN with VGG-STYLE ConvNets for Brain Tumour Detection**|Thennarasi Balakrishnan et.al.|[2405.03541](http://arxiv.org/abs/2405.03541)|**[link](https://github.com/thensib/repvgg-gelan)**|
 |**2024-05-06**|**Low-light Object Detection**|Pengpeng Li et.al.|[2405.03519](http://arxiv.org/abs/2405.03519)|null|
-|**2024-05-06**|**Salient Object Detection From Arbitrary Modalities**|Nianchang Huang et.al.|[2405.03352](http://arxiv.org/abs/2405.03352)|null|
+|**2024-05-09**|**Salient Object Detection From Arbitrary Modalities**|Nianchang Huang et.al.|[2405.03352](http://arxiv.org/abs/2405.03352)|null|
 |**2024-05-06**|**Modality Prompts for Arbitrary Modality Salient Object Detection**|Nianchang Huang et.al.|[2405.03351](http://arxiv.org/abs/2405.03351)|null|
 |**2024-05-06**|**PTQ4SAM: Post-Training Quantization for Segment Anything**|Chengtao Lv et.al.|[2405.03144](http://arxiv.org/abs/2405.03144)|**[link](https://github.com/chengtao-lv/ptq4sam)**|
 |**2024-05-05**|**Performance Evaluation of Real-Time Object Detection for Electric Scooters**|Dong Chen et.al.|[2405.03039](http://arxiv.org/abs/2405.03039)|**[link](https://github.com/dongchen06/scooterdet)**|
