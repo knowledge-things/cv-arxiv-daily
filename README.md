@@ -23,6 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-10**|**MGS-SLAM: Monocular Sparse Tracking and Gaussian Mapping with Depth Smooth Regularization**|Pengcheng Zhu et.al.|[2405.06241](http://arxiv.org/abs/2405.06241)|null|
 |**2024-05-07**|**Bayesian Simultaneous Localization and Multi-Lane Tracking Using Onboard Sensors and a SD Map**|Yuxuan Xia et.al.|[2405.04290](http://arxiv.org/abs/2405.04290)|null|
 |**2024-05-07**|**IMU-Aided Event-based Stereo Visual Odometry**|Junkai Niu et.al.|[2405.04071](http://arxiv.org/abs/2405.04071)|**[link](https://github.com/nail-hnu/esvio_aa)**|
 |**2024-04-27**|**An Attention-Based Deep Learning Architecture for Real-Time Monocular Visual Odometry: Applications to GPS-free Drone Navigation**|Olivier Brochu Dufour et.al.|[2404.17745](http://arxiv.org/abs/2404.17745)|null|
@@ -1898,6 +1899,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-10**|**SketchDream: Sketch-based Text-to-3D Generation and Editing**|Feng-Lin Liu et.al.|[2405.06461](http://arxiv.org/abs/2405.06461)|null|
+|**2024-05-10**|**Aerial-NeRF: Adaptive Spatial Partitioning and Sampling for Large-Scale Aerial Rendering**|Xiaohan Zhang et.al.|[2405.06214](http://arxiv.org/abs/2405.06214)|null|
+|**2024-05-10**|**Residual-NeRF: Learning Residual NeRFs for Transparent Object Manipulation**|Bardienus P. Duisterhof et.al.|[2405.06181](http://arxiv.org/abs/2405.06181)|null|
 |**2024-05-09**|**DragGaussian: Enabling Drag-style Manipulation on 3D Gaussian Representation**|Sitian Shen et.al.|[2405.05800](http://arxiv.org/abs/2405.05800)|null|
 |**2024-05-10**|**NeRFFaceSpeech: One-shot Audio-driven 3D Talking Head Synthesis via Generative Prior**|Gihoon Kim et.al.|[2405.05749](http://arxiv.org/abs/2405.05749)|null|
 |**2024-05-09**|**RPBG: Towards Robust Neural Point-based Graphics in the Wild**|Qingtian Zhu et.al.|[2405.05663](http://arxiv.org/abs/2405.05663)|null|
@@ -2919,6 +2923,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-10**|**How to Augment for Atmospheric Turbulence Effects on Thermal Adapted Object Detection Models?**|Engin Uzun et.al.|[2405.06383](http://arxiv.org/abs/2405.06383)|null|
+|**2024-05-10**|**Precise Apple Detection and Localization in Orchards using YOLOv5 for Robotic Harvesting Systems**|Jiang Ziyue et.al.|[2405.06260](http://arxiv.org/abs/2405.06260)|null|
 |**2024-05-09**|**CSA-Net: Channel-wise Spatially Autocorrelated Attention Networks**|Nick et.al.|[2405.05755](http://arxiv.org/abs/2405.05755)|null|
 |**2024-05-09**|**Depth Awakens: A Depth-perceptual Attention Fusion Network for RGB-D Camouflaged Object Detection**|Xinran Liua et.al.|[2405.05614](http://arxiv.org/abs/2405.05614)|null|
 |**2024-05-09**|**The object detection model uses combined extraction with KNN and RF classification**|Florentina Tatrin Kurniati et.al.|[2405.05551](http://arxiv.org/abs/2405.05551)|null|
