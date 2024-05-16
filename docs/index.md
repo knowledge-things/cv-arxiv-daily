@@ -669,6 +669,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-15**|**Content-Based Image Retrieval for Multi-Class Volumetric Radiology Images: A Benchmark Study**|Farnaz Khun Jush et.al.|[2405.09334](http://arxiv.org/abs/2405.09334)|null|
+|**2024-05-14**|**BEVRender: Vision-based Cross-view Vehicle Registration in Off-road GNSS-denied Environment**|Lihong Jin et.al.|[2405.09001](http://arxiv.org/abs/2405.09001)|null|
 |**2024-05-14**|**TP3M: Transformer-based Pseudo 3D Image Matching with Reference**|Liming Han et.al.|[2405.08434](http://arxiv.org/abs/2405.08434)|null|
 |**2024-05-13**|**OverlapMamba: Novel Shift State Space Model for LiDAR-based Place Recognition**|Qiuchi Xiang et.al.|[2405.07966](http://arxiv.org/abs/2405.07966)|**[link](https://github.com/scnu-rislab/overlapmamba)**|
 |**2024-05-14**|**HybridHash: Hybrid Convolutional and Self-Attention Deep Hashing for Image Retrieval**|Chao He et.al.|[2405.07524](http://arxiv.org/abs/2405.07524)|**[link](https://github.com/shuaichaochao/hybridhash)**|
@@ -2919,6 +2921,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-15**|**Dynamic Loss Decay based Robust Oriented Object Detection on Remote Sensing Images with Noisy Labels**|Guozhang Liu et.al.|[2405.09024](http://arxiv.org/abs/2405.09024)|null|
+|**2024-05-14**|**CLIP with Quality Captions: A Strong Pretraining for Vision Tasks**|Pavan Kumar Anasosalu Vasu et.al.|[2405.08911](http://arxiv.org/abs/2405.08911)|null|
 |**2024-05-14**|**Open-Vocabulary Object Detection via Neighboring Region Attention Alignment**|Sunyuan Qiang et.al.|[2405.08593](http://arxiv.org/abs/2405.08593)|null|
 |**2024-05-14**|**RDPN6D: Residual-based Dense Point-wise Network for 6Dof Object Pose Estimation Based on RGB-D Images**|Zong-Wei Hong et.al.|[2405.08483](http://arxiv.org/abs/2405.08483)|**[link](https://github.com/ai-application-and-integration-lab/rdpn6d)**|
 |**2024-05-14**|**Multimodal Collaboration Networks for Geospatial Vehicle Detection in Dense, Occluded, and Large-Scale Events**|Xin Wu et.al.|[2405.08251](http://arxiv.org/abs/2405.08251)|**[link](https://github.com/shank2358/mudet)**|
