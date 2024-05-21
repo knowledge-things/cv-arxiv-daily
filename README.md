@@ -23,6 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-20**|**EdgeLoc: A Communication-Adaptive Parallel System for Real-Time Localization in Infrastructure-Assisted Autonomous Driving**|Boyi Liu et.al.|[2405.12120](http://arxiv.org/abs/2405.12120)|null|
 |**2024-05-10**|**MGS-SLAM: Monocular Sparse Tracking and Gaussian Mapping with Depth Smooth Regularization**|Pengcheng Zhu et.al.|[2405.06241](http://arxiv.org/abs/2405.06241)|null|
 |**2024-05-07**|**Bayesian Simultaneous Localization and Multi-Lane Tracking Using Onboard Sensors and a SD Map**|Yuxuan Xia et.al.|[2405.04290](http://arxiv.org/abs/2405.04290)|null|
 |**2024-05-07**|**IMU-Aided Event-based Stereo Visual Odometry**|Junkai Niu et.al.|[2405.04071](http://arxiv.org/abs/2405.04071)|**[link](https://github.com/nail-hnu/esvio_aa)**|
@@ -682,6 +683,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-20**|**UAV-VisLoc: A Large-scale Dataset for UAV Visual Localization**|Wenjia Xu et.al.|[2405.11936](http://arxiv.org/abs/2405.11936)|null|
+|**2024-05-19**|**Register assisted aggregation for Visual Place Recognition**|Xuan Yu et.al.|[2405.11526](http://arxiv.org/abs/2405.11526)|null|
 |**2024-05-17**|**CCTNet: A Circular Convolutional Transformer Network for LiDAR-based Place Recognition Handling Movable Objects Occlusion**|Gang Wang et.al.|[2405.10793](http://arxiv.org/abs/2405.10793)|null|
 |**2024-05-16**|**FFF: Fixing Flawed Foundations in contrastive pre-training results in very strong Vision-Language models**|Adrian Bulat et.al.|[2405.10286](http://arxiv.org/abs/2405.10286)|null|
 |**2024-05-15**|**Content-Based Image Retrieval for Multi-Class Volumetric Radiology Images: A Benchmark Study**|Farnaz Khun Jush et.al.|[2405.09334](http://arxiv.org/abs/2405.09334)|null|
@@ -1914,6 +1917,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-20**|**Fast Generalizable Gaussian Splatting Reconstruction from Multi-View Stereo**|Tianqi Liu et.al.|[2405.12218](http://arxiv.org/abs/2405.12218)|null|
+|**2024-05-20**|**Embracing Radiance Field Rendering in 6G: Over-the-Air Training and Inference with 3D Contents**|Guanlin Wu et.al.|[2405.12155](http://arxiv.org/abs/2405.12155)|null|
+|**2024-05-20**|**NPLMV-PS: Neural Point-Light Multi-View Photometric Stereo**|Fotios Logothetis et.al.|[2405.12057](http://arxiv.org/abs/2405.12057)|null|
+|**2024-05-19**|**Searching Realistic-Looking Adversarial Objects For Autonomous Driving Systems**|Shengxiang Sun et.al.|[2405.11629](http://arxiv.org/abs/2405.11629)|null|
+|**2024-05-19**|**R-NeRF: Neural Radiance Fields for Modeling RIS-enabled Wireless Environments**|Huiying Yang et.al.|[2405.11541](http://arxiv.org/abs/2405.11541)|null|
+|**2024-05-18**|**MotionGS : Compact Gaussian Splatting SLAM by Motion Filter**|Xinli Guo et.al.|[2405.11129](http://arxiv.org/abs/2405.11129)|**[link](https://github.com/antonio521/motiongs)**|
 |**2024-05-16**|**When LLMs step into the 3D World: A Survey and Meta-Analysis of 3D Tasks via Multi-modal Large Language Models**|Xianzheng Ma et.al.|[2405.10255](http://arxiv.org/abs/2405.10255)|null|
 |**2024-05-15**|**From NeRFs to Gaussian Splats, and Back**|Siming He et.al.|[2405.09717](http://arxiv.org/abs/2405.09717)|**[link](https://github.com/grasp-lyrl/nerftogsandback)**|
 |**2024-05-14**|**Dynamic NeRF: A Review**|Jinwei Lin et.al.|[2405.08609](http://arxiv.org/abs/2405.08609)|null|
@@ -2946,6 +2955,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-20**|**Multi-View Attentive Contextualization for Multi-View 3D Object Detection**|Xianpeng Liu et.al.|[2405.12200](http://arxiv.org/abs/2405.12200)|null|
+|**2024-05-20**|**Bangladeshi Native Vehicle Detection in Wild**|Bipin Saha et.al.|[2405.12150](http://arxiv.org/abs/2405.12150)|null|
+|**2024-05-20**|**Salience-guided Ground Factor for Robust Localization of Delivery Robots in Complex Urban Environments**|Jooyong Park et.al.|[2405.11855](http://arxiv.org/abs/2405.11855)|null|
+|**2024-05-20**|**DATR: Unsupervised Domain Adaptive Detection Transformer with Dataset-Level Adaptation and Prototypical Alignment**|Jianhong Han et.al.|[2405.11765](http://arxiv.org/abs/2405.11765)|**[link](https://github.com/h751410234/datr)**|
+|**2024-05-20**|**Versatile Teacher: A Class-aware Teacher-student Framework for Cross-domain Adaptation**|Runou Yang et.al.|[2405.11754](http://arxiv.org/abs/2405.11754)|**[link](https://github.com/ricardooyoung/versatileteacher)**|
+|**2024-05-19**|**FADet: A Multi-sensor 3D Object Detection Network based on Local Featured Attention**|Ziang Guo et.al.|[2405.11682](http://arxiv.org/abs/2405.11682)|**[link](https://github.com/ziongo6/fadet)**|
+|**2024-05-19**|**SLAB: Efficient Transformers with Simplified Linear Attention and Progressive Re-parameterized Batch Normalization**|Jialong Guo et.al.|[2405.11582](http://arxiv.org/abs/2405.11582)|**[link](https://github.com/xinghaochen/slab)**|
+|**2024-05-18**|**InfRS: Incremental Few-Shot Object Detection in Remote Sensing Images**|Wuzhou Li et.al.|[2405.11293](http://arxiv.org/abs/2405.11293)|null|
+|**2024-05-18**|**Visible and Clear: Finding Tiny Objects in Difference Map**|Bing Cao et.al.|[2405.11276](http://arxiv.org/abs/2405.11276)|null|
 |**2024-05-17**|**A Versatile Framework for Analyzing Galaxy Image Data by Implanting Human-in-the-loop on a Large Vision Model**|Mingxiang Fu et.al.|[2405.10890](http://arxiv.org/abs/2405.10890)|null|
 |**2024-05-17**|**DuoSpaceNet: Leveraging Both Bird's-Eye-View and Perspective View Representations for 3D Object Detection**|Zhe Huang et.al.|[2405.10577](http://arxiv.org/abs/2405.10577)|null|
 |**2024-05-16**|**Drone-type-Set: Drone types detection benchmark for drone detection and tracking**|Kholoud AlDosari et.al.|[2405.10398](http://arxiv.org/abs/2405.10398)|null|
