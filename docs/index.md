@@ -680,6 +680,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-11**|**Image Textualization: An Automatic Framework for Creating Accurate and Detailed Image Descriptions**|Renjie Pi et.al.|[2406.07502](http://arxiv.org/abs/2406.07502)|**[link](https://github.com/sterzhang/image-textualization)**|
+|**2024-06-11**|**Benchmarking Vision-Language Contrastive Methods for Medical Representation Learning**|Shuvendu Roy et.al.|[2406.07450](http://arxiv.org/abs/2406.07450)|**[link](https://github.com/shuvenduroy/multimodal)**|
+|**2024-06-11**|**Fetch-A-Set: A Large-Scale OCR-Free Benchmark for Historical Document Retrieval**|Adrià Molina et.al.|[2406.07315](http://arxiv.org/abs/2406.07315)|null|
 |**2024-06-10**|**Multicam-SLAM: Non-overlapping Multi-camera SLAM for Indirect Visual Localization and Navigation**|Shenghao Li et.al.|[2406.06374](http://arxiv.org/abs/2406.06374)|**[link](https://github.com/alterpang/multi_orb_slam)**|
 |**2024-06-09**|**Unified Text-to-Image Generation and Retrieval**|Leigang Qu et.al.|[2406.05814](http://arxiv.org/abs/2406.05814)|null|
 |**2024-06-07**|**The Unmet Promise of Synthetic Training Images: Using Retrieved Real Images Performs Better**|Scott Geng et.al.|[2406.05184](http://arxiv.org/abs/2406.05184)|**[link](https://github.com/scottgeng00/unmet-promise)**|
@@ -1939,6 +1942,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-11**|**Active Scout: Multi-Target Tracking Using Neural Radiance Fields in Dense Urban Environments**|Christopher D. Hsu et.al.|[2406.07431](http://arxiv.org/abs/2406.07431)|null|
+|**2024-06-11**|**Generative Lifting of Multiview to 3D from Unknown Pose: Wrapping NeRF inside Diffusion**|Xin Yuan et.al.|[2406.06972](http://arxiv.org/abs/2406.06972)|null|
+|**2024-06-11**|**Neural Visibility Field for Uncertainty-Driven Active Mapping**|Shangjie Xue et.al.|[2406.06948](http://arxiv.org/abs/2406.06948)|null|
 |**2024-06-10**|**IllumiNeRF: 3D Relighting without Inverse Rendering**|Xiaoming Zhao et.al.|[2406.06527](http://arxiv.org/abs/2406.06527)|null|
 |**2024-06-10**|**GaussianCity: Generative Gaussian Splatting for Unbounded 3D City Generation**|Haozhe Xie et.al.|[2406.06526](http://arxiv.org/abs/2406.06526)|null|
 |**2024-06-10**|**PGSR: Planar-based Gaussian Splatting for Efficient and High-Fidelity Surface Reconstruction**|Danpeng Chen et.al.|[2406.06521](http://arxiv.org/abs/2406.06521)|null|
@@ -3027,6 +3033,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-11**|**Transforming a rare event search into a not-so-rare event search in real-time with deep learning-based object detection**|J. Schueler et.al.|[2406.07538](http://arxiv.org/abs/2406.07538)|null|
+|**2024-06-11**|**Understanding Visual Concepts Across Models**|Brandon Trabucco et.al.|[2406.07506](http://arxiv.org/abs/2406.07506)|**[link](https://github.com/visual-words/visual-words)**|
+|**2024-06-11**|**Minimizing Energy Costs in Deep Learning Model Training: The Gaussian Sampling Approach**|Challapalli Phanindra Revanth et.al.|[2406.07332](http://arxiv.org/abs/2406.07332)|null|
+|**2024-06-11**|**Unsupervised Object Detection with Theoretical Guarantees**|Marian Longa et.al.|[2406.07284](http://arxiv.org/abs/2406.07284)|null|
+|**2024-06-11**|**Advancing Grounded Multimodal Named Entity Recognition via LLM-Based Reformulation and Box-Based Segmentation**|Jinyuan Li et.al.|[2406.07268](http://arxiv.org/abs/2406.07268)|null|
+|**2024-06-11**|**EFFOcc: A Minimal Baseline for EFficient Fusion-based 3D Occupancy Network**|Yining Shi et.al.|[2406.07042](http://arxiv.org/abs/2406.07042)|**[link](https://github.com/synsin0/effocc)**|
+|**2024-06-11**|**RS-DFM: A Remote Sensing Distributed Foundation Model for Diverse Downstream Tasks**|Zhechao Wang et.al.|[2406.07032](http://arxiv.org/abs/2406.07032)|null|
+|**2024-06-11**|**LiSD: An Efficient Multi-Task Learning Framework for LiDAR Segmentation and Detection**|Jiahua Xu et.al.|[2406.07023](http://arxiv.org/abs/2406.07023)|null|
+|**2024-06-11**|**Teaching with Uncertainty: Unleashing the Potential of Knowledge Distillation in Object Detection**|Junfei Yi et.al.|[2406.06999](http://arxiv.org/abs/2406.06999)|null|
 |**2024-06-10**|**UnSupDLA: Towards Unsupervised Document Layout Analysis**|Talha Uddin Sheikh et.al.|[2406.06236](http://arxiv.org/abs/2406.06236)|null|
 |**2024-06-10**|**UEMM-Air: A Synthetic Multi-modal Dataset for Unmanned Aerial Vehicle Object Detection**|Fan Liu et.al.|[2406.06230](http://arxiv.org/abs/2406.06230)|**[link](https://github.com/1e12leon/uemm-air)**|
 |**2024-06-10**|**ReCon1M:A Large-scale Benchmark Dataset for Relation Comprehension in Remote Sensing Imagery**|Xian Sun et.al.|[2406.06028](http://arxiv.org/abs/2406.06028)|null|
