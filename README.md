@@ -499,6 +499,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-26**|**VDG: Vision-Only Dynamic Gaussian for Driving Simulation**|Hao Li et.al.|[2406.18198](http://arxiv.org/abs/2406.18198)|null|
 |**2024-06-25**|**Consensus Learning with Deep Sets for Essential Matrix Estimation**|Dror Moran et.al.|[2406.17414](http://arxiv.org/abs/2406.17414)|null|
 |**2024-06-24**|**Crowd-Sourced NeRF: Collecting Data from Production Vehicles for 3D Street View Reconstruction**|Tong Qin et.al.|[2406.16289](http://arxiv.org/abs/2406.16289)|null|
 |**2024-06-19**|**MVSBoost: An Efficient Point Cloud-based 3D Reconstruction**|Umair Haroon et.al.|[2406.13515](http://arxiv.org/abs/2406.13515)|null|
@@ -700,6 +701,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-26**|**View-Invariant Pixelwise Anomaly Detection in Multi-object Scenes with Adaptive View Synthesis**|Subin Varghese et.al.|[2406.18012](http://arxiv.org/abs/2406.18012)|null|
 |**2024-06-25**|**Tell Me Where You Are: Multimodal LLMs Meet Place Recognition**|Zonglin Lyu et.al.|[2406.17520](http://arxiv.org/abs/2406.17520)|null|
 |**2024-06-25**|**SlideSLAM: Sparse, Lightweight, Decentralized Metric-Semantic SLAM for Multi-Robot Navigation**|Xu Liu et.al.|[2406.17249](http://arxiv.org/abs/2406.17249)|null|
 |**2024-06-23**|**Breaking the Frame: Image Retrieval by Visual Overlap Prediction**|Tong Wei et.al.|[2406.16204](http://arxiv.org/abs/2406.16204)|null|
@@ -3124,6 +3126,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-26**|**Unveiling the Unknown: Conditional Evidence Decoupling for Unknown Rejection**|Zhaowei Wu et.al.|[2406.18443](http://arxiv.org/abs/2406.18443)|**[link](https://github.com/zjzwzw/ced-food)**|
+|**2024-06-26**|**CTS: Sim-to-Real Unsupervised Domain Adaptation on 3D Detection**|Meiying Zhang et.al.|[2406.18129](http://arxiv.org/abs/2406.18129)|null|
+|**2024-06-26**|**The Surprising Effectiveness of Multimodal Large Language Models for Video Moment Retrieval**|Meinardus Boris et.al.|[2406.18113](http://arxiv.org/abs/2406.18113)|**[link](https://github.com/sudo-Boris/mr-Blip)**|
+|**2024-06-25**|**ET tu, CLIP? Addressing Common Object Errors for Unseen Environments**|Ye Won Byun et.al.|[2406.17876](http://arxiv.org/abs/2406.17876)|null|
 |**2024-06-25**|**MDHA: Multi-Scale Deformable Transformer with Hybrid Anchors for Multi-View 3D Object Detection**|Michelle Adeline et.al.|[2406.17654](http://arxiv.org/abs/2406.17654)|null|
 |**2024-06-25**|**Embedded event based object detection with spiking neural network**|Jonathan Courtois et.al.|[2406.17617](http://arxiv.org/abs/2406.17617)|null|
 |**2024-06-25**|**Towards Open-set Camera 3D Object Detection**|Zhuolin He et.al.|[2406.17297](http://arxiv.org/abs/2406.17297)|null|
