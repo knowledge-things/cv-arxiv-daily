@@ -489,6 +489,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-03**|**Free-SurGS: SfM-Free 3D Gaussian Splatting for Surgical Scene Reconstruction**|Jiaxin Guo et.al.|[2407.02918](http://arxiv.org/abs/2407.02918)|null|
 |**2024-07-02**|**Indoor 3D Reconstruction with an Unknown Camera-Projector Pair**|Zhaoshuai Qi et.al.|[2407.01945](http://arxiv.org/abs/2407.01945)|null|
 |**2024-05-29**|**Rotation Averaging: A Primal-Dual Method and Closed-Forms in Cycle Graphs**|Gabriel Moreira et.al.|[2406.18564](http://arxiv.org/abs/2406.18564)|null|
 |**2024-06-26**|**VDG: Vision-Only Dynamic Gaussian for Driving Simulation**|Hao Li et.al.|[2406.18198](http://arxiv.org/abs/2406.18198)|null|
@@ -1513,6 +1514,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-03**|**A Radiometric Correction based Optical Modeling Approach to Removing Reflection Noise in TLS Point Clouds of Urban Scenes**|Li Fang et.al.|[2407.02830](http://arxiv.org/abs/2407.02830)|null|
 |**2024-07-02**|**Multi-Grained Contrast for Data-Efficient Unsupervised Representation Learning**|Chengchao Shen et.al.|[2407.02014](http://arxiv.org/abs/2407.02014)|**[link](https://github.com/visresearch/mgc)**|
 |**2024-06-28**|**Beyond First-Order: A Multi-Scale Approach to Finger Knuckle Print Biometrics**|Chengrui Gao et.al.|[2406.19672](http://arxiv.org/abs/2406.19672)|null|
 |**2024-06-24**|**A Certifiable Algorithm for Simultaneous Shape Estimation and Object Tracking**|Lorenzo Shaikewitz et.al.|[2406.16837](http://arxiv.org/abs/2406.16837)|**[link](https://github.com/mit-spark/certifiable_tracking)**|
@@ -1745,6 +1747,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-03**|**IMC 2024 Methods & Solutions Review**|Shyam Gupta et.al.|[2407.03172](http://arxiv.org/abs/2407.03172)|null|
 |**2024-06-21**|**High Resolution Surface Reconstruction of Cultural Heritage Objects Using Shape from Polarization Method**|F. S. Mortazavi et.al.|[2406.15121](http://arxiv.org/abs/2406.15121)|null|
 |**2024-06-16**|**Light Up the Shadows: Enhance Long-Tailed Entity Grounding with Concept-Guided Vision-Language Models**|Yikai Zhang et.al.|[2406.10902](http://arxiv.org/abs/2406.10902)|null|
 |**2024-06-14**|**Grounding Image Matching in 3D with MASt3R**|Vincent Leroy et.al.|[2406.09756](http://arxiv.org/abs/2406.09756)|null|
@@ -1984,7 +1987,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-07-02**|**BeNeRF: Neural Radiance Fields from a Single Blurry Image and Event Stream**|Wenpu Li et.al.|[2407.02174](http://arxiv.org/abs/2407.02174)|**[link](https://github.com/WU-CVGL/BeNeRF)**|
+|**2024-07-02**|**MomentsNeRF: Leveraging Orthogonal Moments for Few-Shot Neural Rendering**|Ahmad AlMughrabi et.al.|[2407.02668](http://arxiv.org/abs/2407.02668)|null|
+|**2024-07-03**|**BeNeRF: Neural Radiance Fields from a Single Blurry Image and Event Stream**|Wenpu Li et.al.|[2407.02174](http://arxiv.org/abs/2407.02174)|**[link](https://github.com/WU-CVGL/BeNeRF)**|
 |**2024-07-01**|**Active Human Pose Estimation via an Autonomous UAV Agent**|Jingxi Chen et.al.|[2407.01811](http://arxiv.org/abs/2407.01811)|null|
 |**2024-07-01**|**DRAGON: Drone and Ground Gaussian Splatting for 3D Building Reconstruction**|Yujin Ham et.al.|[2407.01761](http://arxiv.org/abs/2407.01761)|null|
 |**2024-07-01**|**Fast and Efficient: Mask Neural Fields for 3D Scene Segmentation**|Zihan Gao et.al.|[2407.01220](http://arxiv.org/abs/2407.01220)|null|
@@ -3126,6 +3130,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-03**|**Visual Grounding with Attention-Driven Constraint Balancing**|Weitai Kang et.al.|[2407.03243](http://arxiv.org/abs/2407.03243)|null|
+|**2024-07-03**|**Category-Aware Dynamic Label Assignment with High-Quality Oriented Proposal**|Mingkui Feng et.al.|[2407.03205](http://arxiv.org/abs/2407.03205)|null|
+|**2024-07-03**|**SegVG: Transferring Object Bounding Box to Segmentation for Visual Grounding**|Weitai Kang et.al.|[2407.03200](http://arxiv.org/abs/2407.03200)|**[link](https://github.com/weitaikang/segvg)**|
+|**2024-07-03**|**Global Context Modeling in YOLOv8 for Pediatric Wrist Fracture Detection**|Rui-Yang Ju et.al.|[2407.03163](http://arxiv.org/abs/2407.03163)|**[link](https://github.com/ruiyangju/yolov8_global_context_fracture_detection)**|
+|**2024-07-03**|**YOLOv5, YOLOv8 and YOLOv10: The Go-To Detectors for Real-time Vision**|Muhammad Hussain et.al.|[2407.02988](http://arxiv.org/abs/2407.02988)|null|
+|**2024-07-03**|**A Pairwise DomMix Attentive Adversarial Network for Unsupervised Domain Adaptive Object Detection**|Jie Shao et.al.|[2407.02835](http://arxiv.org/abs/2407.02835)|null|
+|**2024-07-03**|**ADFQ-ViT: Activation-Distribution-Friendly Post-Training Quantization for Vision Transformers**|Yanfeng Jiang et.al.|[2407.02763](http://arxiv.org/abs/2407.02763)|null|
+|**2024-07-02**|**SMILe: Leveraging Submodular Mutual Information For Robust Few-Shot Object Detection**|Anay Majee et.al.|[2407.02665](http://arxiv.org/abs/2407.02665)|null|
+|**2024-07-02**|**Robust ADAS: Enhancing Robustness of Machine Learning-based Advanced Driver Assistance Systems for Adverse Weather**|Muhammad Zaeem Shahzad et.al.|[2407.02581](http://arxiv.org/abs/2407.02581)|null|
 |**2024-07-03**|**Similarity Distance-Based Label Assignment for Tiny Object Detection**|Shuohao Shi et.al.|[2407.02394](http://arxiv.org/abs/2407.02394)|**[link](https://github.com/cszzshi/SimD)**|
 |**2024-07-02**|**OpenSlot: Mixed Open-set Recognition with Object-centric Learning**|Xu Yin et.al.|[2407.02386](http://arxiv.org/abs/2407.02386)|null|
 |**2024-07-02**|**DM3D: Distortion-Minimized Weight Pruning for Lossless 3D Object Detection**|Kaixin Xu et.al.|[2407.02098](http://arxiv.org/abs/2407.02098)|null|
