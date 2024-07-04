@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.03
+## Updated on 2024.07.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3126,7 +3126,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-07-02**|**Similarity Distance-Based Label Assignment for Tiny Object Detection**|Shuohao Shi et.al.|[2407.02394](http://arxiv.org/abs/2407.02394)|**[link](https://github.com/cszzshi/SimD)**|
+|**2024-07-03**|**Similarity Distance-Based Label Assignment for Tiny Object Detection**|Shuohao Shi et.al.|[2407.02394](http://arxiv.org/abs/2407.02394)|**[link](https://github.com/cszzshi/SimD)**|
 |**2024-07-02**|**OpenSlot: Mixed Open-set Recognition with Object-centric Learning**|Xu Yin et.al.|[2407.02386](http://arxiv.org/abs/2407.02386)|null|
 |**2024-07-02**|**DM3D: Distortion-Minimized Weight Pruning for Lossless 3D Object Detection**|Kaixin Xu et.al.|[2407.02098](http://arxiv.org/abs/2407.02098)|null|
 |**2024-07-02**|**Multi-Grained Contrast for Data-Efficient Unsupervised Representation Learning**|Chengchao Shen et.al.|[2407.02014](http://arxiv.org/abs/2407.02014)|**[link](https://github.com/visresearch/mgc)**|
