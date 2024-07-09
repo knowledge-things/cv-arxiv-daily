@@ -500,6 +500,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-08**|**Enhancing Neural Radiance Fields with Depth and Normal Completion Priors from Sparse Views**|Jiawei Guo et.al.|[2407.05666](http://arxiv.org/abs/2407.05666)|null|
 |**2024-07-05**|**Efficient Detection of Long Consistent Cycles and its Application to Distributed Synchronization**|Shaohan Li et.al.|[2407.04260](http://arxiv.org/abs/2407.04260)|null|
 |**2024-07-04**|**SfM on-the-fly: Get better 3D from What You Capture**|Zhan Zongqian et.al.|[2407.03939](http://arxiv.org/abs/2407.03939)|null|
 |**2024-07-03**|**Free-SurGS: SfM-Free 3D Gaussian Splatting for Surgical Scene Reconstruction**|Jiaxin Guo et.al.|[2407.02918](http://arxiv.org/abs/2407.02918)|**[link](https://github.com/wrld/free-surgs)**|
@@ -707,6 +708,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-08**|**Pseudo-triplet Guided Few-shot Composed Image Retrieval**|Bohan Hou et.al.|[2407.06001](http://arxiv.org/abs/2407.06001)|null|
+|**2024-07-08**|**HyCIR: Boosting Zero-Shot Composed Image Retrieval with Synthetic Labels**|Yingying Jiang et.al.|[2407.05795](http://arxiv.org/abs/2407.05795)|null|
 |**2024-07-05**|**Elevating All Zero-Shot Sketch-Based Image Retrieval Through Multimodal Prompt Learning**|Mainak Singha et.al.|[2407.04207](http://arxiv.org/abs/2407.04207)|null|
 |**2024-07-04**|**Visualizing Dialogues: Enhancing Image Selection through Dialogue Understanding with Large Language Models**|Chang-Sheng Kao et.al.|[2407.03615](http://arxiv.org/abs/2407.03615)|null|
 |**2024-07-03**|**Celeb-FBI: A Benchmark Dataset on Human Full Body Images and Age, Gender, Height and Weight Estimation using Deep Learning Approach**|Pronay Debnath et.al.|[2407.03486](http://arxiv.org/abs/2407.03486)|null|
@@ -2013,6 +2016,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-08**|**PanDORA: Casual HDR Radiance Acquisition for Indoor Scenes**|Mohammad Reza Karimi Dastjerdi et.al.|[2407.06150](http://arxiv.org/abs/2407.06150)|null|
+|**2024-07-08**|**Enhancing Neural Radiance Fields with Depth and Normal Completion Priors from Sparse Views**|Jiawei Guo et.al.|[2407.05666](http://arxiv.org/abs/2407.05666)|null|
+|**2024-07-08**|**GeoNLF: Geometry guided Pose-Free Neural LiDAR Fields**|Weiyi Xue et.al.|[2407.05597](http://arxiv.org/abs/2407.05597)|null|
+|**2024-07-08**|**Dynamic Neural Radiance Field From Defocused Monocular Video**|Xianrui Luo et.al.|[2407.05586](http://arxiv.org/abs/2407.05586)|null|
+|**2024-07-07**|**GaussReg: Fast 3D Registration with Gaussian Splatting**|Jiahao Chang et.al.|[2407.05254](http://arxiv.org/abs/2407.05254)|null|
+|**2024-07-06**|**SurgicalGaussian: Deformable 3D Gaussians for High-Fidelity Surgical Scene Reconstruction**|Weixing Xie et.al.|[2407.05023](http://arxiv.org/abs/2407.05023)|null|
 |**2024-07-04**|**CRiM-GS: Continuous Rigid Motion-Aware Gaussian Splatting from Motion Blur Images**|Junghe Lee et.al.|[2407.03923](http://arxiv.org/abs/2407.03923)|null|
 |**2024-07-02**|**MomentsNeRF: Leveraging Orthogonal Moments for Few-Shot Neural Rendering**|Ahmad AlMughrabi et.al.|[2407.02668](http://arxiv.org/abs/2407.02668)|null|
 |**2024-07-03**|**BeNeRF: Neural Radiance Fields from a Single Blurry Image and Event Stream**|Wenpu Li et.al.|[2407.02174](http://arxiv.org/abs/2407.02174)|**[link](https://github.com/WU-CVGL/BeNeRF)**|
@@ -3159,6 +3168,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-08**|**Multi-clue Consistency Learning to Bridge Gaps Between General and Oriented Object in Semi-supervised Detection**|Chenxu Wang et.al.|[2407.05909](http://arxiv.org/abs/2407.05909)|null|
+|**2024-07-08**|**Boosting 3D Object Detection with Semantic-Aware Multi-Branch Framework**|Hao Jing et.al.|[2407.05769](http://arxiv.org/abs/2407.05769)|null|
+|**2024-07-08**|**Short-term Object Interaction Anticipation with Disentangled Object Detection @ Ego4D Short Term Object Interaction Anticipation Challenge**|Hyunjin Cho et.al.|[2407.05713](http://arxiv.org/abs/2407.05713)|**[link](https://github.com/keenyjin/soia-dod)**|
+|**2024-07-08**|**Weakly Supervised Test-Time Domain Adaptation for Object Detection**|Anh-Dzung Doan et.al.|[2407.05607](http://arxiv.org/abs/2407.05607)|null|
+|**2024-07-08**|**Towards Reflected Object Detection: A Benchmark**|Zhongtian Wang et.al.|[2407.05575](http://arxiv.org/abs/2407.05575)|null|
+|**2024-07-08**|**GMC: A General Framework of Multi-stage Context Learning and Utilization for Visual Detection Tasks**|Xuan Wang et.al.|[2407.05566](http://arxiv.org/abs/2407.05566)|null|
+|**2024-07-07**|**CLAMP-ViT: Contrastive Data-Free Learning for Adaptive Post-Training Quantization of ViTs**|Akshat Ramachandran et.al.|[2407.05266](http://arxiv.org/abs/2407.05266)|**[link](https://github.com/georgia-tech-synergy-lab/clamp-vit)**|
+|**2024-07-07**|**Unlocking Textual and Visual Wisdom: Open-Vocabulary 3D Object Detection Enhanced by Comprehensive Guidance from Text and Image**|Pengkun Jiao et.al.|[2407.05256](http://arxiv.org/abs/2407.05256)|null|
+|**2024-07-06**|**SCSA: Exploring the Synergistic Effects Between Spatial and Channel Attention**|Yunzhong Si et.al.|[2407.05128](http://arxiv.org/abs/2407.05128)|**[link](https://github.com/HZAI-ZJNU/SCSA)**|
+|**2024-07-06**|**Quantizing YOLOv7: A Comprehensive Study**|Mohammadamin Baghbanbashi et.al.|[2407.04943](http://arxiv.org/abs/2407.04943)|null|
 |**2024-07-05**|**SH17: A Dataset for Human Safety and Personal Protective Equipment Detection in Manufacturing Industry**|Hafiz Mughees Ahmad et.al.|[2407.04590](http://arxiv.org/abs/2407.04590)|**[link](https://github.com/ahmadmughees/sh17dataset)**|
 |**2024-07-05**|**Multi-Branch Auxiliary Fusion YOLO with Re-parameterization Heterogeneous Convolutional for accurate object detection**|Zhiqiang Yang et.al.|[2407.04381](http://arxiv.org/abs/2407.04381)|**[link](https://github.com/yang-0201/MAF-YOLO)**|
 |**2024-07-05**|**Towards Stable 3D Object Detection**|Jiabao Wang et.al.|[2407.04305](http://arxiv.org/abs/2407.04305)|null|
