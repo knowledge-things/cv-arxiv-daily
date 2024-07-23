@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-22**|**Reinforcement Learning Meets Visual Odometry**|Nico Messikommer et.al.|[2407.15626](http://arxiv.org/abs/2407.15626)|null|
+|**2024-07-21**|**Semi-Supervised Pipe Video Temporal Defect Interval Localization**|Zhu Huang et.al.|[2407.15170](http://arxiv.org/abs/2407.15170)|null|
 |**2024-07-18**|**Attenuation-Aware Weighted Optical Flow with Medium Transmission Map for Learning-based Visual Odometry in Underwater terrain**|Bach Nguyen Gia et.al.|[2407.13159](http://arxiv.org/abs/2407.13159)|**[link](https://github.com/bachzz/wflow-tartanvo)**|
 |**2024-07-17**|**Is That Rain? Understanding Effects on Visual Odometry Performance for Autonomous UAVs and Efficient DNN-based Rain Classification at the Edge**|Andrea Albanese et.al.|[2407.12663](http://arxiv.org/abs/2407.12663)|null|
 |**2024-07-01**|**Preserving Relative Localization of FoV-Limited Drone Swarm via Active Mutual Observation**|Lianjie Guo et.al.|[2407.01292](http://arxiv.org/abs/2407.01292)|**[link](https://github.com/zju-fast-lab/active-relative-localization)**|
@@ -703,6 +705,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-22**|**RADA: Robust and Accurate Feature Learning with Domain Adaptation**|Jingtai He et.al.|[2407.15791](http://arxiv.org/abs/2407.15791)|null|
+|**2024-07-22**|**Online Global Loop Closure Detection for Large-Scale Multi-Session Graph-Based SLAM**|Mathieu Labbe et.al.|[2407.15305](http://arxiv.org/abs/2407.15305)|null|
+|**2024-07-22**|**Appearance-Based Loop Closure Detection for Online Large-Scale and Long-Term Operation**|Mathieu Labbé et.al.|[2407.15304](http://arxiv.org/abs/2407.15304)|null|
+|**2024-07-19**|**Double-Layer Soft Data Fusion for Indoor Robot WiFi-Visual Localization**|Yuehua Ding et.al.|[2407.14643](http://arxiv.org/abs/2407.14643)|null|
 |**2024-07-18**|**Visual Haystacks: Answering Harder Questions About Sets of Images**|Tsung-Han Wu et.al.|[2407.13766](http://arxiv.org/abs/2407.13766)|**[link](https://github.com/visual-haystacks/vhs_benchmark)**|
 |**2024-07-17**|**Towards Revisiting Visual Place Recognition for Joining Submaps in Multimap SLAM**|Markus Weißflog et.al.|[2407.12408](http://arxiv.org/abs/2407.12408)|null|
 |**2024-07-17**|**GV-Bench: Benchmarking Local Feature Matching for Geometric Verification of Long-term Loop Closure Detection**|Jingwen Yu et.al.|[2407.11736](http://arxiv.org/abs/2407.11736)|**[link](https://github.com/jarvisyjw/gv-bench)**|
@@ -1545,6 +1551,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-22**|**RADA: Robust and Accurate Feature Learning with Domain Adaptation**|Jingtai He et.al.|[2407.15791](http://arxiv.org/abs/2407.15791)|null|
 |**2024-07-09**|**LVLM-empowered Multi-modal Representation Learning for Visual Place Recognition**|Teng Wang et.al.|[2407.06730](http://arxiv.org/abs/2407.06730)|null|
 |**2024-07-04**|**PFGS: High Fidelity Point Cloud Rendering via Feature Splatting**|Jiaxu Wang et.al.|[2407.03857](http://arxiv.org/abs/2407.03857)|**[link](https://github.com/Mercerai/PFGS)**|
 |**2024-07-03**|**A Radiometric Correction based Optical Modeling Approach to Removing Reflection Noise in TLS Point Clouds of Urban Scenes**|Li Fang et.al.|[2407.02830](http://arxiv.org/abs/2407.02830)|**[link](https://github.com/tsuiky/3drn)**|
@@ -1780,6 +1787,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-22**|**RADA: Robust and Accurate Feature Learning with Domain Adaptation**|Jingtai He et.al.|[2407.15791](http://arxiv.org/abs/2407.15791)|null|
 |**2024-07-17**|**GV-Bench: Benchmarking Local Feature Matching for Geometric Verification of Long-term Loop Closure Detection**|Jingwen Yu et.al.|[2407.11736](http://arxiv.org/abs/2407.11736)|**[link](https://github.com/jarvisyjw/gv-bench)**|
 |**2024-07-16**|**REMM:Rotation-Equivariant Framework for End-to-End Multimodal Image Matching**|Han Nie et.al.|[2407.11637](http://arxiv.org/abs/2407.11637)|**[link](https://github.com/hanniewhu/remm)**|
 |**2024-07-16**|**A Self-Correcting Strategy of the Digital Volume Correlation Displacement Field Based on Image Matching: Application to Poor Speckles Quality and Complex-Large Deformation**|Chengsheng Li et.al.|[2407.11287](http://arxiv.org/abs/2407.11287)|null|
@@ -2026,6 +2034,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-22**|**BoostMVSNeRFs: Boosting MVS-based NeRFs to Generalizable View Synthesis in Large-scale Scenes**|Chih-Hai Su et.al.|[2407.15848](http://arxiv.org/abs/2407.15848)|null|
+|**2024-07-22**|**Enhancement of 3D Gaussian Splatting using Raw Mesh for Photorealistic Recreation of Architectures**|Ruizhe Wang et.al.|[2407.15435](http://arxiv.org/abs/2407.15435)|null|
 |**2024-07-19**|**HOTS3D: Hyper-Spherical Optimal Transport for Semantic Alignment of Text-to-3D Generation**|Zezeng Li et.al.|[2407.14419](http://arxiv.org/abs/2407.14419)|null|
 |**2024-07-19**|**DirectL: Efficient Radiance Fields Rendering for 3D Light Field Displays**|Zongyuan Yang et.al.|[2407.14053](http://arxiv.org/abs/2407.14053)|null|
 |**2024-07-19**|**Semantic Communications for 3D Human Face Transmission with Neural Radiance Fields**|Guanlin Wu et.al.|[2407.13992](http://arxiv.org/abs/2407.13992)|null|
@@ -3212,6 +3222,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-22**|**Disentangling spatio-temporal knowledge for weakly supervised object detection and segmentation in surgical video**|Guiqiu Liao et.al.|[2407.15794](http://arxiv.org/abs/2407.15794)|null|
+|**2024-07-22**|**Towards Open-World Object-based Anomaly Detection via Self-Supervised Outlier Synthesis**|Brian K. S. Isaac-Medina et.al.|[2407.15763](http://arxiv.org/abs/2407.15763)|null|
+|**2024-07-22**|**YOLOv10 for Automated Fracture Detection in Pediatric Wrist Trauma X-rays**|Ammar Ahmed et.al.|[2407.15689](http://arxiv.org/abs/2407.15689)|**[link](https://github.com/ammarlodhi255/YOLOv10-Fracture-Detection)**|
+|**2024-07-22**|**SS-SFR: Synthetic Scenes Spatial Frequency Response on Virtual KITTI and Degraded Automotive Simulations for Object Detection**|Daniel Jakab et.al.|[2407.15646](http://arxiv.org/abs/2407.15646)|null|
+|**2024-07-22**|**YOLO-pdd: A Novel Multi-scale PCB Defect Detection Method Using Deep Representations with Sequential Images**|Bowen Liu et.al.|[2407.15427](http://arxiv.org/abs/2407.15427)|null|
+|**2024-07-22**|**Learning High-resolution Vector Representation from Multi-Camera Images for 3D Object Detection**|Zhili Chen et.al.|[2407.15354](http://arxiv.org/abs/2407.15354)|null|
+|**2024-07-22**|**Explore the LiDAR-Camera Dynamic Adjustment Fusion for 3D Object Detection**|Yiran Yang et.al.|[2407.15334](http://arxiv.org/abs/2407.15334)|null|
+|**2024-07-21**|**Weak-to-Strong Compositional Learning from Generative Models for Language-based Object Detection**|Kwanyong Park et.al.|[2407.15296](http://arxiv.org/abs/2407.15296)|null|
+|**2024-07-21**|**Multiple Object Detection and Tracking in Panoramic Videos for Cycling Safety Analysis**|Jingwei Guo et.al.|[2407.15199](http://arxiv.org/abs/2407.15199)|null|
+|**2024-07-21**|**Rethinking Feature Backbone Fine-tuning for Remote Sensing Object Detection**|Yechan Kim et.al.|[2407.15143](http://arxiv.org/abs/2407.15143)|null|
 |**2024-07-19**|**Enhancing Layout Hotspot Detection Efficiency with YOLOv8 and PCA-Guided Augmentation**|Dongyang Wu et.al.|[2407.14498](http://arxiv.org/abs/2407.14498)|null|
 |**2024-07-19**|**MLMT-CNN for Object Detection and Segmentation in Multi-layer and Multi-spectral Images**|Majedaldein Almahasneh et.al.|[2407.14473](http://arxiv.org/abs/2407.14473)|null|
 |**2024-07-19**|**EmoCAM: Toward Understanding What Drives CNN-based Emotion Recognition**|Youssef Doulfoukar et.al.|[2407.14314](http://arxiv.org/abs/2407.14314)|null|
