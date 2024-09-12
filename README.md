@@ -2148,6 +2148,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-11**|**DreamMesh: Jointly Manipulating and Texturing Triangle Meshes for Text-to-3D Generation**|Haibo Yang et.al.|[2409.07454](http://arxiv.org/abs/2409.07454)|null|
+|**2024-09-11**|**ThermalGaussian: Thermal 3D Gaussian Splatting**|Rongfeng Lu et.al.|[2409.07200](http://arxiv.org/abs/2409.07200)|null|
 |**2024-09-10**|**LEIA: Latent View-invariant Embeddings for Implicit 3D Articulation**|Archana Swaminathan et.al.|[2409.06703](http://arxiv.org/abs/2409.06703)|null|
 |**2024-09-10**|**Sources of Uncertainty in 3D Scene Reconstruction**|Marcus Klasson et.al.|[2409.06407](http://arxiv.org/abs/2409.06407)|**[link](https://github.com/aaltoml/uncertainty-nerf-gs)**|
 |**2024-09-09**|**LSE-NeRF: Learning Sensor Modeling Errors for Deblured Neural Radiance Fields with RGB-Event Stereo**|Wei Zhi Tang et.al.|[2409.06104](http://arxiv.org/abs/2409.06104)|null|
@@ -3408,6 +3410,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-11**|**SCLNet: A Scale-Robust Complementary Learning Network for Object Detection in UAV Images**|Xuexue Li et.al.|[2409.07024](http://arxiv.org/abs/2409.07024)|null|
+|**2024-09-11**|**ODYSSEE: Oyster Detection Yielded by Sensor Systems on Edge Electronics**|Xiaomin Lin et.al.|[2409.07003](http://arxiv.org/abs/2409.07003)|null|
+|**2024-09-11**|**Brain-Inspired Stepwise Patch Merging for Vision Transformers**|Yonghao Yu et.al.|[2409.06963](http://arxiv.org/abs/2409.06963)|null|
+|**2024-09-10**|**Cross-Modal Self-Supervised Learning with Effective Contrastive Units for LiDAR Point Clouds**|Mu Cai et.al.|[2409.06827](http://arxiv.org/abs/2409.06827)|**[link](https://github.com/qcraftai/cross-modal-ssl)**|
 |**2024-09-10**|**Technical Report of Mobile Manipulator Robot for Industrial Environments**|Erfan Amoozad Khalili et.al.|[2409.06693](http://arxiv.org/abs/2409.06693)|null|
 |**2024-09-10**|**A comprehensive study on Blood Cancer detection and classification using Convolutional Neural Network**|Md Taimur Ahad et.al.|[2409.06689](http://arxiv.org/abs/2409.06689)|null|
 |**2024-09-10**|**When to Extract ReID Features: A Selective Approach for Improved Multiple Object Tracking**|Emirhan Bayar et.al.|[2409.06617](http://arxiv.org/abs/2409.06617)|**[link](https://github.com/emirhanbayar/fast-strongsort)**|
