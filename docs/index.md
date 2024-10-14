@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.13
+## Updated on 2024.10.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2197,7 +2197,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-10**|**RGM: Reconstructing High-fidelity 3D Car Assets with Relightable 3D-GS Generative Model from a Single Image**|Xiaoxue Chen et.al.|[2410.08181](http://arxiv.org/abs/2410.08181)|null|
 |**2024-10-10**|**IncEventGS: Pose-Free Gaussian Splatting from a Single Event Camera**|Jian Huang et.al.|[2410.08107](http://arxiv.org/abs/2410.08107)|**[link](https://github.com/wu-cvgl/inceventgs)**|
-|**2024-10-09**|**NeRF-Accelerated Ecological Monitoring in Mixed-Evergreen Redwood Forest**|Adam Korycki et.al.|[2410.07418](http://arxiv.org/abs/2410.07418)|**[link](https://github.com/harelab-ucsc/redwoodnerf)**|
+|**2024-10-11**|**NeRF-Accelerated Ecological Monitoring in Mixed-Evergreen Redwood Forest**|Adam Korycki et.al.|[2410.07418](http://arxiv.org/abs/2410.07418)|**[link](https://github.com/harelab-ucsc/redwoodnerf)**|
 |**2024-10-09**|**DreamMesh4D: Video-to-4D Generation with Sparse-Controlled Gaussian-Mesh Hybrid Representation**|Zhiqi Li et.al.|[2410.06756](http://arxiv.org/abs/2410.06756)|null|
 |**2024-10-09**|**MimicTalk: Mimicking a personalized and expressive 3D talking face in minutes**|Zhenhui Ye et.al.|[2410.06734](http://arxiv.org/abs/2410.06734)|null|
 |**2024-10-09**|**3D Representation Methods: A Survey**|Zhengren Wang et.al.|[2410.06475](http://arxiv.org/abs/2410.06475)|null|
@@ -3505,7 +3505,7 @@ layout: default
 |**2024-10-10**|**HeightFormer: A Semantic Alignment Monocular 3D Object Detection Method from Roadside Perspective**|Pei Liu et.al.|[2410.07758](http://arxiv.org/abs/2410.07758)|null|
 |**2024-10-10**|**O1O: Grouping of Known Classes to Identify Unknown Objects as Odd-One-Out**|Mısra Yavuz et.al.|[2410.07514](http://arxiv.org/abs/2410.07514)|null|
 |**2024-10-09**|**Progressive Multi-Modal Fusion for Robust 3D Object Detection**|Rohit Mohan et.al.|[2410.07475](http://arxiv.org/abs/2410.07475)|null|
-|**2024-10-09**|**Self-Supervised Learning for Real-World Object Detection: a Survey**|Alina Ciocarlan et.al.|[2410.07442](http://arxiv.org/abs/2410.07442)|null|
+|**2024-10-11**|**Self-Supervised Learning for Real-World Object Detection: a Survey**|Alina Ciocarlan et.al.|[2410.07442](http://arxiv.org/abs/2410.07442)|null|
 |**2024-10-09**|**Robust infrared small target detection using self-supervised and a contrario paradigms**|Alina Ciocarlan et.al.|[2410.07437](http://arxiv.org/abs/2410.07437)|null|
 |**2024-10-09**|**SurANet: Surrounding-Aware Network for Concealed Object Detection via Highly-Efficient Interactive Contrastive Learning Strategy**|Yuhan Kang et.al.|[2410.06842](http://arxiv.org/abs/2410.06842)|**[link](https://github.com/kyh433/suranet)**|
 |**2024-10-09**|**Rethinking the Evaluation of Visible and Infrared Image Fusion**|Dayan Guan et.al.|[2410.06811](http://arxiv.org/abs/2410.06811)|**[link](https://github.com/yixuan-2002/sea)**|
