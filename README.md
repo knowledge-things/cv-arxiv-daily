@@ -2240,6 +2240,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-22**|**LVSM: A Large View Synthesis Model with Minimal 3D Inductive Bias**|Haian Jin et.al.|[2410.17242](http://arxiv.org/abs/2410.17242)|null|
+|**2024-10-18**|**GS-LIVM: Real-Time Photo-Realistic LiDAR-Inertial-Visual Mapping with Gaussian Splatting**|Yusen Xie et.al.|[2410.17084](http://arxiv.org/abs/2410.17084)|null|
+|**2024-10-22**|**E-3DGS: Gaussian Splatting with Exposure and Motion Events**|Xiaoting Yin et.al.|[2410.16995](http://arxiv.org/abs/2410.16995)|null|
+|**2024-10-21**|**Joker: Conditional 3D Head Synthesis with Extreme Facial Expressions**|Malte Prinzler et.al.|[2410.16395](http://arxiv.org/abs/2410.16395)|null|
 |**2024-10-21**|**FrugalNeRF: Fast Convergence for Few-shot Novel View Synthesis without Learned Priors**|Chin-Yang Lin et.al.|[2410.16271](http://arxiv.org/abs/2410.16271)|null|
 |**2024-10-20**|**EF-3DGS: Event-Aided Free-Trajectory 3D Gaussian Splatting**|Bohao Liao et.al.|[2410.15392](http://arxiv.org/abs/2410.15392)|null|
 |**2024-10-19**|**Neural Radiance Field Image Refinement through End-to-End Sampling Point Optimization**|Kazuhiro Ohta et.al.|[2410.14958](http://arxiv.org/abs/2410.14958)|null|
@@ -3565,6 +3569,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-22**|**EPContrast: Effective Point-level Contrastive Learning for Large-scale Point Cloud Understanding**|Zhiyi Pan et.al.|[2410.17207](http://arxiv.org/abs/2410.17207)|null|
+|**2024-10-22**|**YOLO-TS: Real-Time Traffic Sign Detection with Enhanced Accuracy Using Optimized Receptive Fields and Anchor-Free Fusion**|Junzhou Chen et.al.|[2410.17144](http://arxiv.org/abs/2410.17144)|null|
+|**2024-10-22**|**FlightAR: AR Flight Assistance Interface with Multiple Video Streams and Object Detection Aimed at Immersive Drone Control**|Oleg Sautenkov et.al.|[2410.16943](http://arxiv.org/abs/2410.16943)|null|
+|**2024-10-22**|**AttriPrompter: Auto-Prompting with Attribute Semantics for Zero-shot Nuclei Detection via Visual-Language Pre-trained Models**|Yongjian Wu et.al.|[2410.16820](http://arxiv.org/abs/2410.16820)|**[link](https://github.com/wuyongjiancode/attriprompter)**|
+|**2024-10-22**|**DSORT-MCU: Detecting Small Objects in Real-Time on Microcontroller Units**|Liam Boyle et.al.|[2410.16769](http://arxiv.org/abs/2410.16769)|null|
+|**2024-10-22**|**DI-MaskDINO: A Joint Object Detection and Instance Segmentation Model**|Zhixiong Nan et.al.|[2410.16707](http://arxiv.org/abs/2410.16707)|null|
+|**2024-10-22**|**Fire and Smoke Detection with Burning Intensity Representation**|Xiaoyi Han et.al.|[2410.16642](http://arxiv.org/abs/2410.16642)|**[link](https://github.com/xiaoyihan6/fsdmethod)**|
 |**2024-10-21**|**Griffon-G: Bridging Vision-Language and Vision-Centric Tasks via Large Multimodal Models**|Yufei Zhan et.al.|[2410.16163](http://arxiv.org/abs/2410.16163)|**[link](https://github.com/jefferyzhan/griffon)**|
 |**2024-10-21**|**Multi-Sensor Fusion for UAV Classification Based on Feature Maps of Image and Radar Data**|Nikos Sakellariou et.al.|[2410.16089](http://arxiv.org/abs/2410.16089)|null|
 |**2024-10-21**|**Few-shot target-driven instance detection based on open-vocabulary object detection models**|Ben Crulis et.al.|[2410.16028](http://arxiv.org/abs/2410.16028)|null|
