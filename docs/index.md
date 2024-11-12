@@ -764,8 +764,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-05**|**From Pixels to Prose: Advancing Multi-Modal Language Models for Remote Sensing**|Xintian Sun et.al.|[2411.05826](http://arxiv.org/abs/2411.05826)|null|
 |**2024-11-04**|**TripletCLIP: Improving Compositional Reasoning of CLIP via Synthetic Vision-Language Negatives**|Maitreya Patel et.al.|[2411.02545](http://arxiv.org/abs/2411.02545)|null|
-|**2024-11-06**|**INQUIRE: A Natural World Text-to-Image Retrieval Benchmark**|Edward Vendrow et.al.|[2411.02537](http://arxiv.org/abs/2411.02537)|**[link](https://github.com/inquire-benchmark/INQUIRE)**|
+|**2024-11-11**|**INQUIRE: A Natural World Text-to-Image Retrieval Benchmark**|Edward Vendrow et.al.|[2411.02537](http://arxiv.org/abs/2411.02537)|**[link](https://github.com/inquire-benchmark/INQUIRE)**|
 |**2024-11-04**|**Exploiting Contextual Uncertainty of Visual Data for Efficient Training of Deep Models**|Sharat Agarwal et.al.|[2411.01925](http://arxiv.org/abs/2411.01925)|null|
 |**2024-11-04**|**Semantic Masking and Visual Feature Matching for Robust Localization**|Luisa Mao et.al.|[2411.01804](http://arxiv.org/abs/2411.01804)|null|
 |**2024-11-03**|**Efficient Medical Image Retrieval Using DenseNet and FAISS for BIRADS Classification**|MD Shaikh Rahman et.al.|[2411.01473](http://arxiv.org/abs/2411.01473)|null|
@@ -2254,11 +2255,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-11**|**LuSh-NeRF: Lighting up and Sharpening NeRFs for Low-light Scenes**|Zefan Qu et.al.|[2411.06757](http://arxiv.org/abs/2411.06757)|null|
+|**2024-11-10**|**Through the Curved Cover: Synthesizing Cover Aberrated Scenes with Refractive Field**|Liuyue Xie et.al.|[2411.06365](http://arxiv.org/abs/2411.06365)|null|
+|**2024-11-09**|**AI-Driven Stylization of 3D Environments**|Yuanbo Chen et.al.|[2411.06067](http://arxiv.org/abs/2411.06067)|null|
 |**2024-11-08**|**A Nerf-Based Color Consistency Method for Remote Sensing Images**|Zongcheng Zuo et.al.|[2411.05557](http://arxiv.org/abs/2411.05557)|null|
 |**2024-11-08**|**Rate-aware Compression for NeRF-based Volumetric Video**|Zhiyu Zhang et.al.|[2411.05322](http://arxiv.org/abs/2411.05322)|null|
 |**2024-11-07**|**Planar Reflection-Aware Neural Radiance Fields**|Chen Gao et.al.|[2411.04984](http://arxiv.org/abs/2411.04984)|null|
 |**2024-11-07**|**GANESH: Generalizable NeRF for Lensless Imaging**|Rakesh Raj Madavan et.al.|[2411.04810](http://arxiv.org/abs/2411.04810)|null|
-|**2024-11-07**|**SuperQ-GRASP: Superquadrics-based Grasp Pose Estimation on Larger Objects for Mobile-Manipulation**|Xun Tu et.al.|[2411.04386](http://arxiv.org/abs/2411.04386)|null|
+|**2024-11-08**|**SuperQ-GRASP: Superquadrics-based Grasp Pose Estimation on Larger Objects for Mobile-Manipulation**|Xun Tu et.al.|[2411.04386](http://arxiv.org/abs/2411.04386)|null|
 |**2024-11-06**|**Structure Consistent Gaussian Splatting with Matching Prior for Few-shot Novel View Synthesis**|Rui Peng et.al.|[2411.03637](http://arxiv.org/abs/2411.03637)|**[link](https://github.com/prstrive/scgaussian)**|
 |**2024-11-05**|**Enhancing Exploratory Capability of Visual Navigation Using Uncertainty of Implicit Scene Representation**|Yichen Wang et.al.|[2411.03487](http://arxiv.org/abs/2411.03487)|**[link](https://github.com/IRMVLab/NUE-NeRF-nav)**|
 |**2024-11-05**|**CAD-NeRF: Learning NeRFs from Uncalibrated Few-view Images by CAD Model Retrieval**|Xin Wen et.al.|[2411.02979](http://arxiv.org/abs/2411.02979)|null|
@@ -3613,6 +3617,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-11**|**Transformers for Charged Particle Track Reconstruction in High Energy Physics**|Samuel Van Stroud et.al.|[2411.07149](http://arxiv.org/abs/2411.07149)|null|
+|**2024-11-11**|**Multi-scale Frequency Enhancement Network for Blind Image Deblurring**|Yawen Xiang et.al.|[2411.06893](http://arxiv.org/abs/2411.06893)|null|
+|**2024-11-11**|**Fast and Efficient Transformer-based Method for Bird's Eye View Instance Prediction**|Miguel Antunes-García et.al.|[2411.06851](http://arxiv.org/abs/2411.06851)|**[link](https://github.com/miguelag99/efficient-instance-prediction)**|
+|**2024-11-11**|**United Domain Cognition Network for Salient Object Detection in Optical Remote Sensing Images**|Yanguang Sun et.al.|[2411.06703](http://arxiv.org/abs/2411.06703)|**[link](https://github.com/csysi/udcnet)**|
+|**2024-11-11**|**Track Any Peppers: Weakly Supervised Sweet Pepper Tracking Using VLMs**|Jia Syuen Lim et.al.|[2411.06702](http://arxiv.org/abs/2411.06702)|null|
+|**2024-11-11**|**LFSamba: Marry SAM with Mamba for Light Field Salient Object Detection**|Zhengyi Liu et.al.|[2411.06652](http://arxiv.org/abs/2411.06652)|null|
+|**2024-11-09**|**LSSInst: Improving Geometric Modeling in LSS-Based BEV Perception with Instance Representation**|Weijie Ma et.al.|[2411.06173](http://arxiv.org/abs/2411.06173)|**[link](https://github.com/weijiemax/lssinst)**|
+|**2024-11-09**|**AI-Compass: A Comprehensive and Effective Multi-module Testing Tool for AI Systems**|Zhiyu Zhu et.al.|[2411.06146](http://arxiv.org/abs/2411.06146)|null|
+|**2024-11-09**|**Pattern Integration and Enhancement Vision Transformer for Self-Supervised Learning in Remote Sensing**|Kaixuan Lu et.al.|[2411.06091](http://arxiv.org/abs/2411.06091)|null|
+|**2024-11-09**|**An Empirical Analysis on Spatial Reasoning Capabilities of Large Multimodal Models**|Fatemeh Shiri et.al.|[2411.06048](http://arxiv.org/abs/2411.06048)|**[link](https://github.com/fatemehshiri/spatial-mm)**|
 |**2024-11-08**|**Open-set object detection: towards unified problem formulation and benchmarking**|Hejer Ammar et.al.|[2411.05564](http://arxiv.org/abs/2411.05564)|null|
 |**2024-11-08**|**ZOPP: A Framework of Zero-shot Offboard Panoptic Perception for Autonomous Driving**|Tao Ma et.al.|[2411.05311](http://arxiv.org/abs/2411.05311)|null|
 |**2024-11-08**|**SimpleBEV: Improved LiDAR-Camera Fusion Architecture for 3D Object Detection**|Yun Zhao et.al.|[2411.05292](http://arxiv.org/abs/2411.05292)|null|
