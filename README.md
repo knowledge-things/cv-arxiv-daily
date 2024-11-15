@@ -2003,6 +2003,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-14**|**Image Matching Filtering and Refinement by Planes and Beyond**|Fabio Bellavia et.al.|[2411.09484](http://arxiv.org/abs/2411.09484)|**[link](https://github.com/fb82/miho)**|
 |**2024-11-11**|**XPoint: A Self-Supervised Visual-State-Space based Architecture for Multispectral Image Registration**|Ismail Can Yagmur et.al.|[2411.07430](http://arxiv.org/abs/2411.07430)|**[link](https://github.com/canyagmur/xpoint)**|
 |**2024-11-07**|**The Impact of Semi-Supervised Learning on Line Segment Detection**|Johanna Engman et.al.|[2411.04596](http://arxiv.org/abs/2411.04596)|**[link](https://github.com/jo6815en/semi-lines)**|
 |**2024-11-04**|**Silver medal Solution for Image Matching Challenge 2024**|Yian Wang et.al.|[2411.01851](http://arxiv.org/abs/2411.01851)|null|
@@ -3651,6 +3652,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-14**|**Local-Global Attention: An Adaptive Mechanism for Multi-Scale Feature Integration**|Yifan Shao et.al.|[2411.09604](http://arxiv.org/abs/2411.09604)|**[link](https://github.com/ziyueqingwan/localglobalattention)**|
+|**2024-11-14**|**Long-Tailed Object Detection Pre-training: Dynamic Rebalancing Contrastive Learning with Dual Reconstruction**|Chen-Long Duan et.al.|[2411.09453](http://arxiv.org/abs/2411.09453)|null|
+|**2024-11-14**|**Instruction-Driven Fusion of Infrared-Visible Images: Tailoring for Diverse Downstream Tasks**|Zengyi Yang et.al.|[2411.09387](http://arxiv.org/abs/2411.09387)|null|
+|**2024-11-14**|**DT-JRD: Deep Transformer based Just Recognizable Difference Prediction Model for Video Coding for Machines**|Junqi Liu et.al.|[2411.09308](http://arxiv.org/abs/2411.09308)|null|
+|**2024-11-14**|**Cross-Modal Consistency in Multimodal Large Language Models**|Xiang Zhang et.al.|[2411.09273](http://arxiv.org/abs/2411.09273)|null|
+|**2024-11-14**|**LEAP:D - A Novel Prompt-based Approach for Domain-Generalized Aerial Object Detection**|Chanyeong Park et.al.|[2411.09180](http://arxiv.org/abs/2411.09180)|null|
+|**2024-11-13**|**Multimodal Object Detection using Depth and Image Data for Manufacturing Parts**|Nazanin Mahjourian et.al.|[2411.09062](http://arxiv.org/abs/2411.09062)|null|
+|**2024-11-13**|**DART-LLM: Dependency-Aware Multi-Robot Task Decomposition and Execution using Large Language Models**|Yongdong Wang et.al.|[2411.09022](http://arxiv.org/abs/2411.09022)|null|
 |**2024-11-13**|**UIFormer: A Unified Transformer-based Framework for Incremental Few-Shot Object Detection and Instance Segmentation**|Chengyuan Zhang et.al.|[2411.08569](http://arxiv.org/abs/2411.08569)|null|
 |**2024-11-13**|**Methodology for a Statistical Analysis of Influencing Factors on 3D Object Detection Performance**|Anton Kuznietsov et.al.|[2411.08482](http://arxiv.org/abs/2411.08482)|null|
 |**2024-11-13**|**V2X-R: Cooperative LiDAR-4D Radar Fusion for 3D Object Detection with Denoising Diffusion**|Xun Huang et.al.|[2411.08402](http://arxiv.org/abs/2411.08402)|**[link](https://github.com/ylwhxht/v2x-r)**|
