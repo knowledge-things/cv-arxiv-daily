@@ -23,7 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-12-04**|**MCVO: A Generic Visual Odometry for Arbitrarily Arranged Multi-Cameras**|Huai Yu et.al.|[2412.03146](http://arxiv.org/abs/2412.03146)|null|
+|**2024-12-04**|**MCVO: A Generic Visual Odometry for Arbitrarily Arranged Multi-Cameras**|Huai Yu et.al.|[2412.03146](http://arxiv.org/abs/2412.03146)|**[link](https://github.com/junhaowang615/mcvo)**|
 |**2024-12-04**|**An indoor DSO-based ceiling-vision odometry system for indoor industrial environments**|Abdelhak Bougouffa et.al.|[2412.02950](http://arxiv.org/abs/2412.02950)|null|
 |**2024-11-21**|**InCrowd-VI: A Realistic Visual-Inertial Dataset for Evaluating SLAM in Indoor Pedestrian-Rich Spaces for Human Navigation**|Marziyeh Bamdad et.al.|[2411.14358](http://arxiv.org/abs/2411.14358)|null|
 |**2024-11-20**|**Robust Monocular Visual Odometry using Curriculum Learning**|Assaf Lahiany et.al.|[2411.13438](http://arxiv.org/abs/2411.13438)|null|
@@ -3725,8 +3725,8 @@
 |---|---|---|---|---|
 |**2024-12-05**|**Cubify Anything: Scaling Indoor 3D Object Detection**|Justin Lazarow et.al.|[2412.04458](http://arxiv.org/abs/2412.04458)|null|
 |**2024-12-05**|**Reflective Teacher: Semi-Supervised Multimodal 3D Object Detection in Bird's-Eye-View via Uncertainty Measure**|Saheli Hazra et.al.|[2412.04337](http://arxiv.org/abs/2412.04337)|null|
-|**2024-12-05**|**YOLO-CCA: A Context-Based Approach for Traffic Sign Detection**|Linfeng Jiang et.al.|[2412.04289](http://arxiv.org/abs/2412.04289)|null|
-|**2024-12-05**|**DEIM: DETR with Improved Matching for Fast Convergence**|Shihua Huang et.al.|[2412.04234](http://arxiv.org/abs/2412.04234)|null|
+|**2024-12-05**|**YOLO-CCA: A Context-Based Approach for Traffic Sign Detection**|Linfeng Jiang et.al.|[2412.04289](http://arxiv.org/abs/2412.04289)|**[link](https://github.com/zippiest/yolo-cca)**|
+|**2024-12-05**|**DEIM: DETR with Improved Matching for Fast Convergence**|Shihua Huang et.al.|[2412.04234](http://arxiv.org/abs/2412.04234)|**[link](https://github.com/shihuahuang95/deim)**|
 |**2024-12-05**|**Frequency-Adaptive Low-Latency Object Detection Using Events and Frames**|Haitian Zhang et.al.|[2412.04149](http://arxiv.org/abs/2412.04149)|null|
 |**2024-12-05**|**Thermal and RGB Images Work Better Together in Wind Turbine Damage Detection**|Serhii Svystun et.al.|[2412.04114](http://arxiv.org/abs/2412.04114)|null|
 |**2024-12-05**|**SoRA: Singular Value Decomposed Low-Rank Adaptation for Domain Generalizable Representation Learning**|Seokju Yun et.al.|[2412.04077](http://arxiv.org/abs/2412.04077)|null|
