@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.10
+## Updated on 2024.12.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3721,6 +3721,7 @@ layout: default
 |**2024-12-09**|**Object Detection using Event Camera: A MoE Heat Conduction based Detector and A New Benchmark Dataset**|Xiao Wang et.al.|[2412.06647](http://arxiv.org/abs/2412.06647)|null|
 |**2024-12-09**|**Self-Paced Learning Strategy with Easy Sample Prior Based on Confidence for the Flying Bird Object Detection Model Training**|Zi-Wei Sun et.al.|[2412.06306](http://arxiv.org/abs/2412.06306)|null|
 |**2024-12-09**|**No Annotations for Object Detection in Art through Stable Diffusion**|Patrick Ramos et.al.|[2412.06286](http://arxiv.org/abs/2412.06286)|**[link](https://github.com/patrick-john-ramos/nada)**|
+|**2024-12-09**|**DenseVLM: A Retrieval and Decoupled Alignment Framework for Open-Vocabulary Dense Prediction**|Yunheng Li et.al.|[2412.06244](http://arxiv.org/abs/2412.06244)|null|
 |**2024-12-09**|**A Real-Time Defense Against Object Vanishing Adversarial Patch Attacks for Object Detection in Autonomous Vehicles**|Jaden Mu et.al.|[2412.06215](http://arxiv.org/abs/2412.06215)|null|
 |**2024-12-09**|**PoLaRIS Dataset: A Maritime Object Detection and Tracking Dataset in Pohang Canal**|Jiwon Choi et.al.|[2412.06192](http://arxiv.org/abs/2412.06192)|null|
 |**2024-12-08**|**Tiny Object Detection with Single Point Supervision**|Haoran Zhu et.al.|[2412.05837](http://arxiv.org/abs/2412.05837)|null|
