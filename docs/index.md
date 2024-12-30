@@ -790,6 +790,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-25**|**FOR: Finetuning for Object Level Open Vocabulary Image Retrieval**|Hila Levi et.al.|[2412.18806](http://arxiv.org/abs/2412.18806)|null|
 |**2024-12-24**|**ERVD: An Efficient and Robust ViT-Based Distillation Framework for Remote Sensing Image Retrieval**|Le Dong et.al.|[2412.18136](http://arxiv.org/abs/2412.18136)|**[link](https://github.com/milkyfun0/ERVD)**|
 |**2024-12-22**|**Where am I? Cross-View Geo-localization with Natural Language Descriptions**|Junyan Ye et.al.|[2412.17007](http://arxiv.org/abs/2412.17007)|null|
 |**2024-12-22**|**Large-Scale UWB Anchor Calibration and One-Shot Localization Using Gaussian Process**|Shenghai Yuan et.al.|[2412.16880](http://arxiv.org/abs/2412.16880)|null|
@@ -2066,6 +2067,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-27**|**MINIMA: Modality Invariant Image Matching**|Xingyu Jiang et.al.|[2412.19412](http://arxiv.org/abs/2412.19412)|**[link](https://github.com/LSXI7/MINIMA)**|
 |**2024-12-24**|**GIMS: Image Matching System Based on Adaptive Graph Construction and Graph Neural Network**|Xianfeng Song et.al.|[2412.18221](http://arxiv.org/abs/2412.18221)|**[link](https://github.com/songxf1024/gims)**|
 |**2024-12-17**|**Bringing Multimodality to Amazon Visual Search System**|Xinliang Zhu et.al.|[2412.13364](http://arxiv.org/abs/2412.13364)|null|
 |**2024-12-04**|**Appearance Matching Adapter for Exemplar-based Semantic Image Synthesis**|Siyoon Jin et.al.|[2412.03150](http://arxiv.org/abs/2412.03150)|null|
@@ -2348,6 +2350,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-27**|**Learning Radiance Fields from a Single Snapshot Compressive Image**|Yunhao Li et.al.|[2412.19483](http://arxiv.org/abs/2412.19483)|null|
+|**2024-12-26**|**BeSplat -- Gaussian Splatting from a Single Blurry Image and Event Stream**|Gopi Raju Matta et.al.|[2412.19370](http://arxiv.org/abs/2412.19370)|null|
+|**2024-12-26**|**Generating Editable Head Avatars with 3D Gaussian GANs**|Guohao Li et.al.|[2412.19149](http://arxiv.org/abs/2412.19149)|**[link](https://github.com/liguohao96/egg3d)**|
+|**2024-12-26**|**MVS-GS: High-Quality 3D Gaussian Splatting Mapping via Online Multi-View Stereo**|Byeonggwon Lee et.al.|[2412.19130](http://arxiv.org/abs/2412.19130)|null|
+|**2024-12-26**|**Humans as a Calibration Pattern: Dynamic 3D Scene Reconstruction from Unsynchronized and Uncalibrated Videos**|Changwoon Choi et.al.|[2412.19089](http://arxiv.org/abs/2412.19089)|null|
 |**2024-12-23**|**Editing Implicit and Explicit Representations of Radiance Fields: A Survey**|Arthur Hubert et.al.|[2412.17628](http://arxiv.org/abs/2412.17628)|null|
 |**2024-12-23**|**Exploring Dynamic Novel View Synthesis Technologies for Cinematography**|Adrian Azzarelli et.al.|[2412.17532](http://arxiv.org/abs/2412.17532)|null|
 |**2024-12-21**|**LUCES-MV: A Multi-View Dataset for Near-Field Point Light Source Photometric Stereo**|Fotios Logothetis et.al.|[2412.16737](http://arxiv.org/abs/2412.16737)|null|
@@ -3774,6 +3781,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-27**|**Chimera: A Block-Based Neural Architecture Search Framework for Event-Based Object Detection**|Diego A. Silva et.al.|[2412.19646](http://arxiv.org/abs/2412.19646)|null|
+|**2024-12-27**|**Optimizing Helmet Detection with Hybrid YOLO Pipelines: A Detailed Analysis**|Vaikunth M et.al.|[2412.19467](http://arxiv.org/abs/2412.19467)|null|
+|**2024-12-26**|**Revisiting Monocular 3D Object Detection from Scene-Level Depth Retargeting to Instance-Level Spatial Refinement**|Qiude Zhang et.al.|[2412.19165](http://arxiv.org/abs/2412.19165)|null|
+|**2024-12-26**|**From Coin to Data: The Impact of Object Detection on Digital Numismatics**|Rafael Cabral et.al.|[2412.19091](http://arxiv.org/abs/2412.19091)|null|
+|**2024-12-26**|**Assessing Pre-trained Models for Transfer Learning through Distribution of Spectral Components**|Tengxue Zhang et.al.|[2412.19085](http://arxiv.org/abs/2412.19085)|null|
+|**2024-12-25**|**CGCOD: Class-Guided Camouflaged Object Detection**|Chenxi Zhang et.al.|[2412.18977](http://arxiv.org/abs/2412.18977)|null|
+|**2024-12-25**|**HV-BEV: Decoupling Horizontal and Vertical Feature Sampling for Multi-View 3D Object Detection**|Di Wu et.al.|[2412.18884](http://arxiv.org/abs/2412.18884)|null|
+|**2024-12-25**|**TSceneJAL: Joint Active Learning of Traffic Scenes for 3D Object Detection**|Chenyang Lei et.al.|[2412.18870](http://arxiv.org/abs/2412.18870)|null|
+|**2024-12-25**|**Distortion-Aware Adversarial Attacks on Bounding Boxes of Object Detectors**|Pham Phuc et.al.|[2412.18815](http://arxiv.org/abs/2412.18815)|**[link](https://github.com/anonymous20210106/attack_detector)**|
+|**2024-12-25**|**Unified Local and Global Attention Interaction Modeling for Vision Transformers**|Tan Nguyen et.al.|[2412.18778](http://arxiv.org/abs/2412.18778)|null|
 |**2024-12-24**|**Sampling Bag of Views for Open-Vocabulary Object Detection**|Hojun Choi et.al.|[2412.18273](http://arxiv.org/abs/2412.18273)|null|
 |**2024-12-24**|**Efficient Detection Framework Adaptation for Edge Computing: A Plug-and-play Neural Network Toolbox Enabling Edge Deployment**|Jiaqi Wu et.al.|[2412.18230](http://arxiv.org/abs/2412.18230)|null|
 |**2024-12-24**|**Spectrum-oriented Point-supervised Saliency Detector for Hyperspectral Images**|Peifu Liu et.al.|[2412.18112](http://arxiv.org/abs/2412.18112)|**[link](https://github.com/laprf/spsd)**|
