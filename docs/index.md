@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.12
+## Updated on 2025.01.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3805,8 +3805,8 @@ layout: default
 |**2025-01-09**|**Performance of YOLOv7 in Kitchen Safety While Handling Knife**|Athulya Sundaresan Geetha et.al.|[2501.05399](http://arxiv.org/abs/2501.05399)|null|
 |**2025-01-09**|**A Systematic Literature Review on Deep Learning-based Depth Estimation in Computer Vision**|Ali Rohan et.al.|[2501.05147](http://arxiv.org/abs/2501.05147)|null|
 |**2025-01-09**|**CorrDiff: Adaptive Delay-aware Detector with Temporal Cue Inputs for Real-time Object Detection**|Xiang Zhang et.al.|[2501.05132](http://arxiv.org/abs/2501.05132)|null|
-|**2025-01-09**|**AD-L-JEPA: Self-Supervised Spatial World Models with Joint Embedding Predictive Architecture for Autonomous Driving with LiDAR Data**|Haoran Zhu et.al.|[2501.04969](http://arxiv.org/abs/2501.04969)|null|
-|**2025-01-09**|**Online Continual Learning: A Systematic Literature Review of Approaches, Challenges, and Benchmarks**|Seyed Amir Bidaki et.al.|[2501.04897](http://arxiv.org/abs/2501.04897)|null|
+|**2025-01-09**|**AD-L-JEPA: Self-Supervised Spatial World Models with Joint Embedding Predictive Architecture for Autonomous Driving with LiDAR Data**|Haoran Zhu et.al.|[2501.04969](http://arxiv.org/abs/2501.04969)|**[link](https://github.com/haoranzhuexplorer/ad-l-jepa-release)**|
+|**2025-01-09**|**Online Continual Learning: A Systematic Literature Review of Approaches, Challenges, and Benchmarks**|Seyed Amir Bidaki et.al.|[2501.04897](http://arxiv.org/abs/2501.04897)|**[link](https://github.com/kiyan-rezaee/systematic-literature-review-on-online-continual-learning)**|
 |**2025-01-08**|**Video Summarisation with Incident and Context Information using Generative AI**|Ulindu De Silva et.al.|[2501.04764](http://arxiv.org/abs/2501.04764)|null|
 |**2025-01-08**|**Boosting Salient Object Detection with Knowledge Distillated from Large Foundation Models**|Miaoyang He et.al.|[2501.04582](http://arxiv.org/abs/2501.04582)|null|
 |**2025-01-08**|**RSAR: Restricted State Angle Resolver and Rotated SAR Benchmark**|Xin Zhang et.al.|[2501.04440](http://arxiv.org/abs/2501.04440)|**[link](https://github.com/zhasion/rsar)**|
