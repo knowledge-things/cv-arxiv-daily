@@ -811,6 +811,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-14**|**VINGS-Mono: Visual-Inertial Gaussian Splatting Monocular SLAM in Large Scenes**|Ke Wu et.al.|[2501.08286](http://arxiv.org/abs/2501.08286)|null|
 |**2025-01-13**|**Efficiently Closing Loops in LiDAR-Based SLAM Using Point Cloud Density Maps**|Saurabh Gupta et.al.|[2501.07399](http://arxiv.org/abs/2501.07399)|null|
 |**2025-01-12**|**Static Segmentation by Tracking: A Frustratingly Label-Efficient Approach to Fine-Grained Segmentation**|Zhenyang Feng et.al.|[2501.06749](http://arxiv.org/abs/2501.06749)|null|
 |**2025-01-06**|**Integrating Language-Image Prior into EEG Decoding for Cross-Task Zero-Calibration RSVP-BCI**|Xujin Li et.al.|[2501.02841](http://arxiv.org/abs/2501.02841)|null|
@@ -2392,6 +2393,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-14**|**VINGS-Mono: Visual-Inertial Gaussian Splatting Monocular SLAM in Large Scenes**|Ke Wu et.al.|[2501.08286](http://arxiv.org/abs/2501.08286)|null|
+|**2025-01-13**|**Evaluating Human Perception of Novel View Synthesis: Subjective Quality Assessment of Gaussian Splatting and NeRF in Dynamic Scenes**|Yuhang Zhang et.al.|[2501.08072](http://arxiv.org/abs/2501.08072)|null|
 |**2025-01-13**|**SplatMAP: Online Dense Monocular SLAM with 3D Gaussian Splatting**|Yue Hu et.al.|[2501.07015](http://arxiv.org/abs/2501.07015)|null|
 |**2025-01-12**|**CULTURE3D: Cultural Landmarks and Terrain Dataset for 3D Applications**|Xinyi Zheng et.al.|[2501.06927](http://arxiv.org/abs/2501.06927)|null|
 |**2025-01-12**|**ActiveGAMER: Active GAussian Mapping through Efficient Rendering**|Liyan Chen et.al.|[2501.06897](http://arxiv.org/abs/2501.06897)|null|
@@ -3838,6 +3841,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-14**|**Bootstrapping Corner Cases: High-Resolution Inpainting for Safety Critical Detect and Avoid for Automated Flying**|Jonathan Lyhs et.al.|[2501.08142](http://arxiv.org/abs/2501.08142)|null|
+|**2025-01-14**|**Learning Motion and Temporal Cues for Unsupervised Video Object Segmentation**|Yunzhi Zhuge et.al.|[2501.07806](http://arxiv.org/abs/2501.07806)|**[link](https://github.com/hy0523/mtnet)**|
+|**2025-01-14**|**Parameter-Inverted Image Pyramid Networks for Visual Perception and Multimodal Understanding**|Zhaokai Wang et.al.|[2501.07783](http://arxiv.org/abs/2501.07783)|**[link](https://github.com/opengvlab/piip)**|
 |**2025-01-13**|**SST-EM: Advanced Metrics for Evaluating Semantic, Spatial and Temporal Aspects in Video Editing**|Varun Biyyala et.al.|[2501.07554](http://arxiv.org/abs/2501.07554)|**[link](https://github.com/custommetrics-sst/sst_customevaluationmetrics)**|
 |**2025-01-13**|**ML Mule: Mobile-Driven Context-Aware Collaborative Learning**|Haoxiang Yu et.al.|[2501.07536](http://arxiv.org/abs/2501.07536)|null|
 |**2025-01-13**|**TimberVision: A Multi-Task Dataset and Framework for Log-Component Segmentation and Tracking in Autonomous Forestry Operations**|Daniel Steininger et.al.|[2501.07360](http://arxiv.org/abs/2501.07360)|null|
