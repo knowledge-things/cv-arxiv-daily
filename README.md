@@ -2416,7 +2416,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-01-27**|**LinPrim: Linear Primitives for Differentiable Volumetric Rendering**|Nicolas von Lützow et.al.|[2501.16312](http://arxiv.org/abs/2501.16312)|null|
+|**2025-01-28**|**LinPrim: Linear Primitives for Differentiable Volumetric Rendering**|Nicolas von Lützow et.al.|[2501.16312](http://arxiv.org/abs/2501.16312)|null|
 |**2025-01-24**|**SyncAnimation: A Real-Time End-to-End Framework for Audio-Driven Human Pose and Talking Head Animation**|Yujian Liu et.al.|[2501.14646](http://arxiv.org/abs/2501.14646)|null|
 |**2025-01-22**|**GS-LiDAR: Generating Realistic LiDAR Point Clouds with Panoramic Gaussian Splatting**|Junzhe Jiang et.al.|[2501.13971](http://arxiv.org/abs/2501.13971)|**[link](https://github.com/fudan-zvg/gs-lidar)**|
 |**2025-01-23**|**VIGS SLAM: IMU-based Large-Scale 3D Gaussian Splatting SLAM**|Gyuhyeon Pak et.al.|[2501.13402](http://arxiv.org/abs/2501.13402)|null|
@@ -3876,6 +3876,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-28**|**DINOSTAR: Deep Iterative Neural Object Detector Self-Supervised Training for Roadside LiDAR Applications**|Muhammad Shahbaz et.al.|[2501.17076](http://arxiv.org/abs/2501.17076)|null|
+|**2025-01-28**|**Contextual Self-paced Learning for Weakly Supervised Spatio-Temporal Video Grounding**|Akash Kumar et.al.|[2501.17053](http://arxiv.org/abs/2501.17053)|null|
+|**2025-01-28**|**Approach Towards Semi-Automated Certification for Low Criticality ML-Enabled Airborne Applications**|Chandrasekar Sridhar et.al.|[2501.17028](http://arxiv.org/abs/2501.17028)|null|
+|**2025-01-28**|**Modulating CNN Features with Pre-Trained ViT Representations for Open-Vocabulary Object Detection**|Xiangyu Gao et.al.|[2501.16981](http://arxiv.org/abs/2501.16981)|null|
+|**2025-01-28**|**SSF-PAN: Semantic Scene Flow-Based Perception for Autonomous Navigation in Traffic Scenarios**|Yinqi Chen et.al.|[2501.16754](http://arxiv.org/abs/2501.16754)|null|
+|**2025-01-28**|**DebugAgent: Efficient and Interpretable Error Slice Discovery for Comprehensive Model Debugging**|Muxi Chen et.al.|[2501.16751](http://arxiv.org/abs/2501.16751)|null|
+|**2025-01-27**|**Efficient Object Detection of Marine Debris using Pruned YOLO Model**|Abi Aryaza et.al.|[2501.16571](http://arxiv.org/abs/2501.16571)|null|
+|**2025-01-27**|**Object Detection for Medical Image Analysis: Insights from the RT-DETR Model**|Weijie He et.al.|[2501.16469](http://arxiv.org/abs/2501.16469)|null|
 |**2025-01-27**|**The Linear Attention Resurrection in Vision Transformer**|Chuanyang Zheng et.al.|[2501.16182](http://arxiv.org/abs/2501.16182)|null|
 |**2025-01-27**|**Real-Time Brain Tumor Detection in Intraoperative Ultrasound Using YOLO11: From Model Training to Deployment in the Operating Room**|Santiago Cepeda et.al.|[2501.15994](http://arxiv.org/abs/2501.15994)|null|
 |**2025-01-26**|**Breaking the SSL-AL Barrier: A Synergistic Semi-Supervised Active Learning Framework for 3D Object Detection**|Zengran Wang et.al.|[2501.15449](http://arxiv.org/abs/2501.15449)|null|
