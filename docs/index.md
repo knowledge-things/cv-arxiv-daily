@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.15
+## Updated on 2025.02.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3896,7 +3896,7 @@ layout: default
 |**2025-02-13**|**Instance Segmentation of Scene Sketches Using Natural Image Priors**|Mia Tang et.al.|[2502.09608](http://arxiv.org/abs/2502.09608)|null|
 |**2025-02-13**|**Wholly-WOOD: Wholly Leveraging Diversified-quality Labels for Weakly-supervised Oriented Object Detection**|Yi Yu et.al.|[2502.09471](http://arxiv.org/abs/2502.09471)|null|
 |**2025-02-13**|**Mitigating the Impact of Prominent Position Shift in Drone-based RGBT Object Detection**|Yan Zhang et.al.|[2502.09311](http://arxiv.org/abs/2502.09311)|null|
-|**2025-02-12**|**Uncertainty Aware Human-machine Collaboration in Camouflaged Object Detection**|Ziyue Yang et.al.|[2502.08373](http://arxiv.org/abs/2502.08373)|null|
+|**2025-02-12**|**Uncertainty Aware Human-machine Collaboration in Camouflaged Object Detection**|Ziyue Yang et.al.|[2502.08373](http://arxiv.org/abs/2502.08373)|**[link](https://github.com/ziyuey/uncertainty-aware-human-machine-collaboration-in-camouflaged-object-identification)**|
 |**2025-02-12**|**Plantation Monitoring Using Drone Images: A Dataset and Performance Review**|Yashwanth Karumanchi et.al.|[2502.08233](http://arxiv.org/abs/2502.08233)|null|
 |**2025-02-12**|**Take What You Need: Flexible Multi-Task Semantic Communications with Channel Adaptation**|Xiang Chen et.al.|[2502.08221](http://arxiv.org/abs/2502.08221)|null|
 |**2025-02-13**|**SARChat-Bench-2M: A Multi-Task Vision-Language Benchmark for SAR Image Interpretation**|Zhiming Ma et.al.|[2502.08168](http://arxiv.org/abs/2502.08168)|null|
