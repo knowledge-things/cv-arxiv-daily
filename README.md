@@ -2575,6 +2575,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-26**|**AccidentSim: Generating Physically Realistic Vehicle Collision Videos from Real-World Accident Reports**|Xiangwen Zhang et.al.|[2503.20654](http://arxiv.org/abs/2503.20654)|null|
+|**2025-03-26**|**EVolSplat: Efficient Volume-based Gaussian Splatting for Urban View Synthesis**|Sheng Miao et.al.|[2503.20168](http://arxiv.org/abs/2503.20168)|null|
+|**2025-03-25**|**Learning Scene-Level Signed Directional Distance Function with Ellipsoidal Priors and Neural Residuals**|Zhirui Dai et.al.|[2503.20066](http://arxiv.org/abs/2503.20066)|null|
 |**2025-03-25**|**MultimodalStudio: A Heterogeneous Sensor Dataset and Framework for Neural Rendering across Multiple Imaging Modalities**|Federico Lincetto et.al.|[2503.19673](http://arxiv.org/abs/2503.19673)|null|
 |**2025-03-24**|**NexusGS: Sparse View Synthesis with Epipolar Depth Priors in 3D Gaussian Splatting**|Yulong Zheng et.al.|[2503.18794](http://arxiv.org/abs/2503.18794)|null|
 |**2025-03-25**|**LookCloser: Frequency-aware Radiance Field for Tiny-Detail Scene**|Xiaoyu Zhang et.al.|[2503.18513](http://arxiv.org/abs/2503.18513)|null|
@@ -4113,6 +4116,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-26**|**SaViD: Spectravista Aesthetic Vision Integration for Robust and Discerning 3D Object Detection in Challenging Environments**|Tanmoy Dam et.al.|[2503.20614](http://arxiv.org/abs/2503.20614)|null|
+|**2025-03-26**|**Small Object Detection: A Comprehensive Survey on Challenges, Techniques and Real-World Applications**|Mahya Nikouei et.al.|[2503.20516](http://arxiv.org/abs/2503.20516)|null|
+|**2025-03-25**|**Gemini Robotics: Bringing AI into the Physical World**|Gemini Robotics Team et.al.|[2503.20020](http://arxiv.org/abs/2503.20020)|null|
+|**2025-03-25**|**Hyperdimensional Uncertainty Quantification for Multimodal Uncertainty Fusion in Autonomous Vehicles Perception**|Luke Chen et.al.|[2503.20011](http://arxiv.org/abs/2503.20011)|null|
 |**2025-03-25**|**Mind the Gap: Benchmarking Spatial Reasoning in Vision-Language Models**|Ilias Stogiannidis et.al.|[2503.19707](http://arxiv.org/abs/2503.19707)|null|
 |**2025-03-25**|**BiblioPage: A Dataset of Scanned Title Pages for Bibliographic Metadata Extraction**|Jan Kohút et.al.|[2503.19658](http://arxiv.org/abs/2503.19658)|null|
 |**2025-03-25**|**Single Shot AI-assisted quantification of KI-67 proliferation index in breast cancer**|Deepti Madurai Muthu et.al.|[2503.19606](http://arxiv.org/abs/2503.19606)|null|
