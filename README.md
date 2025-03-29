@@ -862,7 +862,7 @@
 |**2025-03-27**|**LOCORE: Image Re-ranking with Long-Context Sequence Modeling**|Zilin Xiao et.al.|[2503.21772](http://arxiv.org/abs/2503.21772)|null|
 |**2025-03-27**|**Fwd2Bot: LVLM Visual Token Compression with Double Forward Bottleneck**|Adrian Bulat et.al.|[2503.21757](http://arxiv.org/abs/2503.21757)|null|
 |**2025-03-27**|**UGNA-VPR: A Novel Training Paradigm for Visual Place Recognition Based on Uncertainty-Guided NeRF Augmentation**|Yehui Shen et.al.|[2503.21338](http://arxiv.org/abs/2503.21338)|null|
-|**2025-03-27**|**FineCIR: Explicit Parsing of Fine-Grained Modification Semantics for Composed Image Retrieval**|Zixu Li et.al.|[2503.21309](http://arxiv.org/abs/2503.21309)|null|
+|**2025-03-27**|**FineCIR: Explicit Parsing of Fine-Grained Modification Semantics for Composed Image Retrieval**|Zixu Li et.al.|[2503.21309](http://arxiv.org/abs/2503.21309)|**[link](https://github.com/sdu-l/finecir)**|
 |**2025-03-27**|**Clean Image May be Dangerous: Data Poisoning Attacks Against Deep Hashing**|Shuai Li et.al.|[2503.21236](http://arxiv.org/abs/2503.21236)|null|
 |**2025-03-25**|**CoLLM: A Large Language Model for Composed Image Retrieval**|Chuong Huynh et.al.|[2503.19910](http://arxiv.org/abs/2503.19910)|**[link](https://github.com/hmchuong/CoLLM)**|
 |**2025-03-25**|**Scene-agnostic Pose Regression for Visual Localization**|Junwei Zheng et.al.|[2503.19543](http://arxiv.org/abs/2503.19543)|null|
@@ -4127,7 +4127,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-03-27**|**Learning Class Prototypes for Unified Sparse Supervised 3D Object Detection**|Yun Zhu et.al.|[2503.21099](http://arxiv.org/abs/2503.21099)|null|
+|**2025-03-27**|**Learning Class Prototypes for Unified Sparse Supervised 3D Object Detection**|Yun Zhu et.al.|[2503.21099](http://arxiv.org/abs/2503.21099)|**[link](https://github.com/zyrant/cpdet3d)**|
 |**2025-03-26**|**SaViD: Spectravista Aesthetic Vision Integration for Robust and Discerning 3D Object Detection in Challenging Environments**|Tanmoy Dam et.al.|[2503.20614](http://arxiv.org/abs/2503.20614)|**[link](https://github.com/sanjay-810/savid)**|
 |**2025-03-26**|**Small Object Detection: A Comprehensive Survey on Challenges, Techniques and Real-World Applications**|Mahya Nikouei et.al.|[2503.20516](http://arxiv.org/abs/2503.20516)|null|
 |**2025-03-25**|**Gemini Robotics: Bringing AI into the Physical World**|Gemini Robotics Team et.al.|[2503.20020](http://arxiv.org/abs/2503.20020)|null|
