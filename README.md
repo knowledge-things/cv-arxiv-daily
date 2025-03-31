@@ -2581,6 +2581,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-28**|**ABC-GS: Alignment-Based Controllable Style Transfer for 3D Gaussian Splatting**|Wenjie Liu et.al.|[2503.22218](http://arxiv.org/abs/2503.22218)|null|
+|**2025-03-27**|**NeRF-based Point Cloud Reconstruction using a Stationary Camera for Agricultural Applications**|Kibon Ku et.al.|[2503.21958](http://arxiv.org/abs/2503.21958)|null|
+|**2025-03-27**|**Refined Geometry-guided Head Avatar Reconstruction from Monocular RGB Video**|Pilseo Park et.al.|[2503.21886](http://arxiv.org/abs/2503.21886)|null|
 |**2025-03-27**|**HS-SLAM: Hybrid Representation with Structural Supervision for Improved Dense SLAM**|Ziren Gong et.al.|[2503.21778](http://arxiv.org/abs/2503.21778)|null|
 |**2025-03-27**|**RainyGS: Efficient Rain Synthesis with Physically-Based Gaussian Splatting**|Qiyu Dai et.al.|[2503.21442](http://arxiv.org/abs/2503.21442)|null|
 |**2025-03-28**|**LandMarkSystem Technical Report**|Zhenxiang Ma et.al.|[2503.21364](http://arxiv.org/abs/2503.21364)|null|
@@ -4127,6 +4130,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-28**|**AnnoPage Dataset: Dataset of Non-Textual Elements in Documents with Fine-Grained Categorization**|Martin Kišš et.al.|[2503.22526](http://arxiv.org/abs/2503.22526)|null|
+|**2025-03-28**|**Data Quality Matters: Quantifying Image Quality Impact on Machine Learning Performance**|Christian Steinhauser et.al.|[2503.22375](http://arxiv.org/abs/2503.22375)|null|
+|**2025-03-28**|**ForcePose: A Deep Learning Approach for Force Calculation Based on Action Recognition Using MediaPipe Pose Estimation Combined with Object Detection**|Nandakishor M et.al.|[2503.22363](http://arxiv.org/abs/2503.22363)|null|
+|**2025-03-28**|**Knowledge Rectification for Camouflaged Object Detection: Unlocking Insights from Low-Quality Data**|Juwei Guan et.al.|[2503.22180](http://arxiv.org/abs/2503.22180)|null|
+|**2025-03-28**|**A Survey on Remote Sensing Foundation Models: From Vision to Multimodality**|Ziyue Huang et.al.|[2503.22081](http://arxiv.org/abs/2503.22081)|null|
+|**2025-03-27**|**AGILE: A Diffusion-Based Attention-Guided Image and Label Translation for Efficient Cross-Domain Plant Trait Identification**|Earl Ranario et.al.|[2503.22019](http://arxiv.org/abs/2503.22019)|null|
+|**2025-03-27**|**FACETS: Efficient Once-for-all Object Detection via Constrained Iterative Search**|Tony Tran et.al.|[2503.21999](http://arxiv.org/abs/2503.21999)|null|
+|**2025-03-27**|**Exponentially Weighted Instance-Aware Repeat Factor Sampling for Long-Tailed Object Detection Model Training in Unmanned Aerial Vehicles Surveillance Scenarios**|Taufiq Ahmed et.al.|[2503.21893](http://arxiv.org/abs/2503.21893)|null|
 |**2025-03-27**|**Learning Class Prototypes for Unified Sparse Supervised 3D Object Detection**|Yun Zhu et.al.|[2503.21099](http://arxiv.org/abs/2503.21099)|**[link](https://github.com/zyrant/cpdet3d)**|
 |**2025-03-26**|**SaViD: Spectravista Aesthetic Vision Integration for Robust and Discerning 3D Object Detection in Challenging Environments**|Tanmoy Dam et.al.|[2503.20614](http://arxiv.org/abs/2503.20614)|**[link](https://github.com/sanjay-810/savid)**|
 |**2025-03-26**|**Small Object Detection: A Comprehensive Survey on Challenges, Techniques and Real-World Applications**|Mahya Nikouei et.al.|[2503.20516](http://arxiv.org/abs/2503.20516)|null|
