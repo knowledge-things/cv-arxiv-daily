@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.15
+## Updated on 2025.04.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2284,7 +2284,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-04-11**|**Geometric Consistency Refinement for Single Image Novel View Synthesis via Test-Time Adaptation of Diffusion Models**|Josef Bengtson et.al.|[2504.08348](http://arxiv.org/abs/2504.08348)|null|
-|**2025-04-10**|**Image registration of 2D optical thin sections in a 3D porous medium: Application to a Berea sandstone digital rock image**|Jaehong Chung et.al.|[2504.06604](http://arxiv.org/abs/2504.06604)|null|
+|**2025-04-10**|**Image registration of 2D optical thin sections in a 3D porous medium: Application to a Berea sandstone digital rock image**|Jaehong Chung et.al.|[2504.06604](http://arxiv.org/abs/2504.06604)|**[link](https://github.com/jh-chung1/imgregister2dto3d)**|
 |**2025-04-08**|**To Match or Not to Match: Revisiting Image Matching for Reliable Visual Place Recognition**|Davide Sferrazza et.al.|[2504.06116](http://arxiv.org/abs/2504.06116)|null|
 |**2025-04-10**|**Learning Affine Correspondences by Integrating Geometric Constraints**|Pengju Sun et.al.|[2504.04834](http://arxiv.org/abs/2504.04834)|**[link](https://github.com/stilcrad/denseaffine)**|
 |**2025-04-01**|**Scaling Prompt Instructed Zero Shot Composed Image Retrieval with Image-Only Data**|Yiqun Duan et.al.|[2504.00812](http://arxiv.org/abs/2504.00812)|null|
@@ -4179,7 +4179,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-04-14**|**DiffMOD: Progressive Diffusion Point Denoising for Moving Object Detection in Remote Sensing**|Jinyue Zhang et.al.|[2504.10278](http://arxiv.org/abs/2504.10278)|null|
 |**2025-04-14**|**Balancing Stability and Plasticity in Pretrained Detector: A Dual-Path Framework for Incremental Object Detection**|Songze Li et.al.|[2504.10214](http://arxiv.org/abs/2504.10214)|null|
-|**2025-04-14**|**WildLive: Near Real-time Visual Wildlife Tracking onboard UAVs**|Nguyen Ngoc Dat et.al.|[2504.10165](http://arxiv.org/abs/2504.10165)|null|
+|**2025-04-15**|**WildLive: Near Real-time Visual Wildlife Tracking onboard UAVs**|Nguyen Ngoc Dat et.al.|[2504.10165](http://arxiv.org/abs/2504.10165)|null|
 |**2025-04-14**|**COUNTS: Benchmarking Object Detectors and Multimodal Large Language Models under Distribution Shifts**|Jiansheng Li et.al.|[2504.10158](http://arxiv.org/abs/2504.10158)|null|
 |**2025-04-14**|**Small Object Detection with YOLO: A Performance Analysis Across Model Versions and Hardware**|Muhammad Fasih Tariq et.al.|[2504.09900](http://arxiv.org/abs/2504.09900)|null|
 |**2025-04-14**|**Density-based Object Detection in Crowded Scenes**|Chenyang Zhao et.al.|[2504.09819](http://arxiv.org/abs/2504.09819)|null|
