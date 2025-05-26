@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.25
+## Updated on 2025.05.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -555,7 +555,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#updated-on-20250525>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250526>back to top</a>)</p>
 
 ## SFM
 
@@ -893,7 +893,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#updated-on-20250525>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250526>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -2049,7 +2049,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#updated-on-20250525>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250526>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -2362,7 +2362,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20250525>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250526>back to top</a>)</p>
 
 ## Image Matching
 
@@ -2693,7 +2693,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20250525>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250526>back to top</a>)</p>
 
 ## NeRF
 
@@ -4312,17 +4312,17 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20250525>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250526>back to top</a>)</p>
 
 ## Object Detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-05-22**|**Semi-Supervised State-Space Model with Dynamic Stacking Filter for Real-World Video Deraining**|Shangquan Sun et.al.|[2505.16811](http://arxiv.org/abs/2505.16811)|null|
-|**2025-05-22**|**Robust Vision-Based Runway Detection through Conformal Prediction and Conformal mAP**|Alya Zouzou et.al.|[2505.16740](http://arxiv.org/abs/2505.16740)|null|
+|**2025-05-22**|**Robust Vision-Based Runway Detection through Conformal Prediction and Conformal mAP**|Alya Zouzou et.al.|[2505.16740](http://arxiv.org/abs/2505.16740)|**[link](https://github.com/alyasltd/conformal_runway_detection)**|
 |**2025-05-22**|**CodeMerge: Codebook-Guided Model Merging for Robust Test-Time Adaptation in Autonomous Driving**|Huitong Yang et.al.|[2505.16524](http://arxiv.org/abs/2505.16524)|null|
 |**2025-05-22**|**MAFE R-CNN: Selecting More Samples to Learn Category-aware Features for Small Object Detection**|Yichen Li et.al.|[2505.16442](http://arxiv.org/abs/2505.16442)|null|
-|**2025-05-22**|**AdvReal: Adversarial Patch Generation Framework with Application to Adversarial Safety Evaluation of Object Detection Systems**|Yuanhao Huang et.al.|[2505.16402](http://arxiv.org/abs/2505.16402)|null|
+|**2025-05-22**|**AdvReal: Adversarial Patch Generation Framework with Application to Adversarial Safety Evaluation of Object Detection Systems**|Yuanhao Huang et.al.|[2505.16402](http://arxiv.org/abs/2505.16402)|**[link](https://github.com/huangyh98/advreal)**|
 |**2025-05-22**|**Self-Classification Enhancement and Correction for Weakly Supervised Object Detection**|Yufei Yin et.al.|[2505.16294](http://arxiv.org/abs/2505.16294)|null|
 |**2025-05-21**|**SNAP: A Benchmark for Testing the Effects of Capture Conditions on Fundamental Vision Tasks**|Iuliia Kotseruba et.al.|[2505.15628](http://arxiv.org/abs/2505.15628)|**[link](https://github.com/ykotseruba/snap)**|
 |**2025-05-21**|**Detection of Underwater Multi-Targets Based on Self-Supervised Learning and Deformable Path Aggregation Feature Pyramid Network**|Chang Liu et.al.|[2505.15518](http://arxiv.org/abs/2505.15518)|null|
@@ -6505,7 +6505,7 @@
 |**2023-12-25**|**BiSwift: Bandwidth Orchestrator for Multi-Stream Video Analytics on Edge**|Lin Sun et.al.|[2312.15740](http://arxiv.org/abs/2312.15740)|null|
 |**2023-12-25**|**Edge-on Low-surface-brightness Galaxy Candidates Detected from SDSS Images Using YOLO**|Yongguang Xing et.al.|[2312.15712](http://arxiv.org/abs/2312.15712)|null|
 
-<p align=right>(<a href=#updated-on-20250525>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250526>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
