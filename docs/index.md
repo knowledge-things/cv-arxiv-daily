@@ -901,6 +901,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-10**|**Robust Visual Localization via Semantic-Guided Multi-Scale Transformer**|Zhongtao Tian et.al.|[2506.08526](http://arxiv.org/abs/2506.08526)|null|
 |**2025-06-08**|**Interpretable and Reliable Detection of AI-Generated Images via Grounded Reasoning in MLLMs**|Yikun Ji et.al.|[2506.07045](http://arxiv.org/abs/2506.07045)|null|
 |**2025-06-07**|**Zero Shot Composed Image Retrieval**|Santhosh Kakarla et.al.|[2506.06602](http://arxiv.org/abs/2506.06602)|null|
 |**2025-06-06**|**GenIR: Generative Visual Feedback for Mental Image Retrieval**|Diji Yang et.al.|[2506.06220](http://arxiv.org/abs/2506.06220)|null|
@@ -2730,6 +2731,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-10**|**A Probability-guided Sampler for Neural Implicit Surface Rendering**|Gonçalo Dias Pais et.al.|[2506.08619](http://arxiv.org/abs/2506.08619)|null|
 |**2025-06-09**|**Speedy Deformable 3D Gaussian Splatting: Fast Rendering and Compression of Dynamic Scenes**|Allen Tu et.al.|[2506.07917](http://arxiv.org/abs/2506.07917)|null|
 |**2025-06-09**|**Genesis: Multimodal Driving Scene Generation with Spatio-Temporal and Cross-Modal Consistency**|Xiangyu Guo et.al.|[2506.07497](http://arxiv.org/abs/2506.07497)|null|
 |**2025-06-07**|**SPC to 3D: Novel View Synthesis from Binary SPC via I2I translation**|Sumit Sharma et.al.|[2506.06890](http://arxiv.org/abs/2506.06890)|null|
@@ -4369,6 +4371,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-10**|**Cosmos-Drive-Dreams: Scalable Synthetic Driving Data Generation with World Foundation Models**|Xuanchi Ren et.al.|[2506.09042](http://arxiv.org/abs/2506.09042)|null|
+|**2025-06-10**|**ADAM: Autonomous Discovery and Annotation Model using LLMs for Context-Aware Annotations**|Amirreza Rouhi et.al.|[2506.08968](http://arxiv.org/abs/2506.08968)|null|
+|**2025-06-10**|**Data Augmentation For Small Object using Fast AutoAugment**|DaeEun Yoon et.al.|[2506.08956](http://arxiv.org/abs/2506.08956)|null|
+|**2025-06-10**|**Gaussian2Scene: 3D Scene Representation Learning via Self-supervised Learning with 3D Gaussian Splatting**|Keyi Liu et.al.|[2506.08777](http://arxiv.org/abs/2506.08777)|null|
+|**2025-06-10**|**ATAS: Any-to-Any Self-Distillation for Enhanced Open-Vocabulary Dense Prediction**|Juan Yeo et.al.|[2506.08678](http://arxiv.org/abs/2506.08678)|null|
+|**2025-06-10**|**Hierarchical Neural Collapse Detection Transformer for Class Incremental Object Detection**|Duc Thanh Pham et.al.|[2506.08562](http://arxiv.org/abs/2506.08562)|null|
+|**2025-06-10**|**Discovery of Odd Radio Circles and Other Peculiars in the First Year of the EMU Survey using Object Detection**|Nikhel Gupta et.al.|[2506.08439](http://arxiv.org/abs/2506.08439)|null|
 |**2025-06-09**|**CrosswalkNet: An Optimized Deep Learning Framework for Pedestrian Crosswalk Detection in Aerial Images with High-Performance Computing**|Zubin Bhuyan et.al.|[2506.07885](http://arxiv.org/abs/2506.07885)|null|
 |**2025-06-09**|**SAM2Auto: Auto Annotation Using FLASH**|Arash Rocky et.al.|[2506.07850](http://arxiv.org/abs/2506.07850)|null|
 |**2025-06-09**|**Design and Evaluation of Deep Learning-Based Dual-Spectrum Image Fusion Methods**|Beining Xu et.al.|[2506.07779](http://arxiv.org/abs/2506.07779)|null|
