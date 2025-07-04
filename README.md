@@ -4464,6 +4464,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-03**|**Partial Weakly-Supervised Oriented Object Detection**|Mingxin Liu et.al.|[2507.02751](http://arxiv.org/abs/2507.02751)|null|
+|**2025-07-03**|**Automatic Labelling for Low-Light Pedestrian Detection**|Dimitrios Bouzoulas et.al.|[2507.02513](http://arxiv.org/abs/2507.02513)|null|
+|**2025-07-03**|**Weakly-supervised Contrastive Learning with Quantity Prompts for Moving Infrared Small Target Detection**|Weiwei Duan et.al.|[2507.02454](http://arxiv.org/abs/2507.02454)|null|
+|**2025-07-03**|**A Late Collaborative Perception Framework for 3D Multi-Object and Multi-Source Association and Fusion**|Maryem Fadili et.al.|[2507.02430](http://arxiv.org/abs/2507.02430)|null|
+|**2025-07-03**|**PLOT: Pseudo-Labeling via Video Object Tracking for Scalable Monocular 3D Object Detection**|Seokyeong Lee et.al.|[2507.02393](http://arxiv.org/abs/2507.02393)|null|
+|**2025-07-03**|**Two-Steps Neural Networks for an Automated Cerebrovascular Landmark Detection**|Rafic Nader et.al.|[2507.02349](http://arxiv.org/abs/2507.02349)|null|
+|**2025-07-03**|**Perception Activator: An intuitive and portable framework for brain cognitive exploration**|Le Xu et.al.|[2507.02311](http://arxiv.org/abs/2507.02311)|null|
+|**2025-07-03**|**Understanding Trade offs When Conditioning Synthetic Data**|Brandon Trabucco et.al.|[2507.02217](http://arxiv.org/abs/2507.02217)|null|
 |**2025-07-02**|**How Well Does GPT-4o Understand Vision? Evaluating Multimodal Foundation Models on Standard Computer Vision Tasks**|Rahul Ramachandran et.al.|[2507.01955](http://arxiv.org/abs/2507.01955)|null|
 |**2025-07-02**|**Learning from Random Subspace Exploration: Generalized Test-Time Augmentation with Self-supervised Distillation**|Andrei Jelea et.al.|[2507.01347](http://arxiv.org/abs/2507.01347)|null|
 |**2025-07-01**|**Rapid Salient Object Detection with Difference Convolutional Neural Networks**|Zhuo Su et.al.|[2507.01182](http://arxiv.org/abs/2507.01182)|null|
